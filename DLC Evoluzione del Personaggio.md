@@ -1,6 +1,7 @@
 
 # DLC Evoluzione del Personaggio
 
+#DLC
 
 > Per campagne lunghe, in cui vuoi dare un senso di progresso agli eroi.
 
@@ -9,7 +10,7 @@
 
 ## Prova Cruciale 🏆
 
-> *In questo sistema, le caratteristiche del personaggio restano generalmente statiche lungo il corso della campagna. In questo capitolo vedremo come arricchire il personaggio con abilità speciali e nuovi tratti. La prova cruciale è un evento speciale che causa una crescita interiore del personaggio.*
+> *La prova cruciale è un evento speciale che causa una crescita interiore del personaggio. In questo capitolo vedremo come arricchire il personaggio con abilità speciali e nuovi tratti.*
 
 Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo dell'**EROE**;
 
@@ -18,9 +19,9 @@ Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo
 2. Affronta la **PROVA** normalmente.
     
 3. Scegli **una** delle seguenti opzioni (_vedi prossima pagina_):
-	- o **NUOVO TRATTO**
+	- o aggiungere un **NUOVO TRATTO**
 	- o **MIGLIORARE UN TRATTO**
-	- o **LEZIONE**
+	- o imparare una **LEZIONE**
     
 4. Se hai fallito la **PROVA**, vieni segnato da un evento traumatico significativo; **SPENDI** **ameno** 1⚫️ su una **SVENTURA**.
 
@@ -51,13 +52,67 @@ Quando affronti una **Prova Cruciale**, il tuo personaggio ha l’opportunità d
 
 ---
 
-## Migliorare un Tratto
+## Aggiungere un Tratto 🌱
 
-#todo
+> _Non tutti i cambiamenti sono miglioramenti di ciò che già esiste. A volte l’eroe scopre o sviluppa una capacità completamente nuova, frutto di impegno prolungato o di un momento di svolta._
+
+Il Narratore può concedere un **nuovo Tratto** in due momenti principali:
+
+- Dopo una **Prova Cruciale** (sia in caso di successo che di fallimento significativo)
+- Dopo un **periodo prolungato di pratica** durante un Time-skip o tra una sessione e l’altra (ideale con il DLC Gestionale)
+
+Ecco come funziona:
+1. Il giocatore propone un nuovo Tratto coerente con le esperienze recenti del personaggio.
+2. Il Narratore valuta e collabora per raffinarlo, assicurandosi che sia **chiaro, specifico e narrativamente significativo**.
+3. Il nuovo Tratto viene aggiunto alla scheda e funziona come gli altri: aggiunge **1⚪** quando rilevante.
+
+
+#### Ruolo del Narratore nel Bilanciamento
+
+Il Narratore ha il compito di guidare questo processo con saggezza:
+
+- **Specificità**: Evita tratti troppo generici (“Forte”, “Intelligente”). Preferisci tratti focalizzati (“Forte nella lotta con l’ascia”, “Perspicace nei sotterfugi di corte”).
+- **Coerenza**: Il nuovo tratto deve emergere naturalmente dalla storia vissuta.
+- **Equilibrio**: Se il tratto è molto potente in certi contesti, può avere una piccola limitazione narrativa o una debolezza occasionale (es. “potente ma arrogante”).
+- **Frequenza**: Non concedere troppi nuovi tratti in poco tempo. Una buona cadenza è 1 nuovo tratto ogni 3-5 Prove Cruciali o ogni pochi Time-skip.
+- **Crescita organica**: Incoraggia i giocatori a collegare il nuovo tratto al loro Archetipo o alle Lezioni già acquisite.
+
+---
+
+## Migliorare un Tratto ✨
+
+> _La vera crescita non sta solo nell’aggiungere nuovi tratti, ma nel far evolvere quelli che già definiscono il tuo personaggio._
+
+Il Narratore può concedere il miglioramento di un tratto dopo una **Prova Cruciale** (successo o fallimento significativo) o dopo un **periodo prolungato di pratica** durante un Time-skip.
+Il Narratore ha l’ultima parola per mantenere coerenza e bilanciamento.
+
+
+#### Miglioramento di Livello
+
+Aggiungi un **II** (o un aggettivo evocativo) al nome del tratto.  
+**Esempi**: *Persuasivo* → **Persuasivo II**, *Furtivo* → **Fantasma Urbano II**, *Scalatore* → **Scalatore Esperto II**.  
+
+Quando usi il tratto migliorato, aggiungi **+2⚪** al sacchetto invece di 1 (massimo un tratto migliorato per prova).
+
+
+#### Evoluzione Narrativa
+
+Trasforma o specializzi il tratto in qualcosa di più profondo e personale.  
+**Esempi**:  
+- *Testardo* → *Risoluto*  
+- *Sfortunato* → *Fortuna del Disperato*  
+- *Fiducioso* → *Cauto con gli Stranieri* (dopo un tradimento)
+
+Questa seconda opzione è particolarmente indicata quando il miglioramento nasce da un fallimento o da un arco narrativo intenso.
 
 ---
 
 # Esempi
+
+
+#todo esempio prova cruciale
+
+#todo esempio aggiungere un tratto
 
 
 ### Esempi di Lezione
@@ -109,5 +164,3 @@ Se la **PROVA CRUCIALE** non ha avuto l'effetto desiderato, cerca di far riflett
 | Forza Bruta | Furia Controllata II |
 
 ---
-
-#DLC

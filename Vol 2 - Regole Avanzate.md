@@ -1,6 +1,21 @@
 
 # Regole Avanzate
 
+#core
+
+> _Hai imparato le regole base del gioco. Ora sei già in grado di affrontare una nuova avventura, ma se vuoi spingerti oltre, immergerti più a fondo nelle possibilità del sistema e dare maggiore profondità alla tua storia… allora questo capitolo fa per te._
+
+Le **Regole Avanzate** non sono obbligatorie, ma rappresentano un invito a elevare l’esperienza di **New Beginning**. Qui troverai strumenti per rendere le prove più tese e drammatiche, per legare ancora di più il destino del personaggio alle sue scelte, e per trasformare ogni estrazione di token in un momento indimenticabile.
+
+Scoprirai come introdurre il **Pericolo** nelle azioni più audaci, come modulare le prove con gli **Status Tematici** per riflettere paure, adrenalina o confusione, e riceverai consigli preziosi per il Narratore su come guidare la tavola con equilibrio e creatività.
+
+Queste regole sono pensate per gruppi che desiderano un’esperienza più intensa, cinematografica e carica di conseguenze emotive. Usale con misura, adattale al tono della vostra campagna e, soprattutto, non dimenticate mai il principio fondamentale di **New Beginning**:
+
+**La storia nasce dal rischio che osate correre.**
+
+Prendete ciò che vi ispira, lasciate il resto, e continuate a scrivere insieme il vostro **Nuovo Inizio**.
+
+---
 
 ## Il Livello di Pericolo ❗️
 
@@ -28,11 +43,11 @@ Quando affronti una **PROVA**, il **NARRATORE** può stabilire un livello di **P
 | Numero di ⚪<br>nel sacchetto | Massimo             |
 
 
-#todo modificare e unire con token bianchi
+#todo modificare e unire con token bianchi?
 
 ---
 
-### Uscire di Scena
+## Uscire di Scena
 
 Un’**USCITA DI SCENA** è un momento drammatico in cui il tuo eroe viene temporaneamente messo fuori gioco durante una **PROVA**, a causa di un pericolo attivato (estraendo un numero di ⚫ pari o superiore al livello stabilito dal **NARRATORE**). Potresti perdere conoscenza, essere catturato o affrontare un ostacolo insormontabile. Non è una sconfitta definitiva: rientri nella scena successiva, spesso con una Sventura o un nuovo spunto narrativo. Collabora con il **NARRATORE** per rendere questo evento un’occasione per arricchire la tua storia, trasformando il rischio in un nuovo inizio.
 
@@ -98,5 +113,3 @@ Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di applicare 
 > **Narratore**: *“Raggiungi la cima, ma la grondaia si spezza sotto il tuo peso. Cadi nel cortile con un tonfo. Le guardie ti circondano: ‘Prendetelo!’ Ti svegli in una cella… ma la storia continua nella prossima scena.”*
 
 ---
-
-#core

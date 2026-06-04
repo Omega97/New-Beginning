@@ -1,6 +1,7 @@
 
 # DLC PvP
 
+#DLC 
 
 > *Se nella tua avventura prevedi scontri aperti e conflitti diretti.*
 
@@ -32,7 +33,39 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 
 ---
 
-## Conflitto tra Giocatori 🏹
+## Punti Vita
+
+> _In questo sistema, il combattimento non è una simulazione tattica, ma un momento drammatico di rischio e conseguenze. I **Punti Vita** rappresentano la **resistenza complessiva** del tuo personaggio: la sua capacità di restare in piedi sotto pressione fisica, emotiva e narrativa._
+
+Il tuo personaggio possiede **1 Punto Vita per ogni Tratto** sulla scheda.
+I Punti Vita non si rigenerano facilmente. Rappresentano quanto il personaggio è “intero” nella storia. Quando arrivano a 0, il personaggio subisce un’**Uscita di Scena** drammatica (svenuto, catturato, in fuga, moralmente spezzato, ecc.).
+
+
+#### Il Combattimento
+
+Il combattimento usa le **regole base delle Prove**, con alcune aggiunte per rendere gli scontri diretti più intensi.
+
+1. **Dichiarazione dell’Attacco** - L’attaccante descrive la propria azione (colpo, incantesimo, manovra psicologica, ecc.). - Il **Narratore** stabilisce la **Difficoltà** base (solitamente 3–5 ⚫), modificata dai tratti del difensore rilevanti. - L’attaccante aggiunge i propri **tratti favorevoli** (+1⚪ ciascuno). - Il difensore può aggiungere tratti per **difendersi** (+1⚪ al proprio sacchetto o +1⚫ al sacchetto dell’attaccante, a sua scelta).
+    
+2. Estrazione e Danno L’attaccante estrae il numero di token che desidera.
+    
+	- Se **non supera la prova** → l’attacco fallisce (possibili complicazioni). - Se **supera la prova** → l’attacco va a segno. **Il danno inflitto** è pari al **numero totale di ⚪ estratti**.
+
+
+#### Difesa e Riduzione del Danno
+
+Il difensore non è passivo. Può scegliere una delle seguenti opzioni **prima** dell’estrazione dell’attaccante:
+
+- **Difesa Attiva**: Aggiunge i propri tratti al sacchetto dell’attaccante come ⚫ (rende più difficile colpire forte). - **Schivare / Contrastare**: Effettua una **Prova Contrapposta** (vedi sotto). Se ha successo, riduce il danno di un numero pari ai ⚪ estratti nella propria prova. - **Resistenza Narrativa**: Spende 1 Punto Vita volontariamente per ottenere un vantaggio narrativo (es. “accetto il colpo ma riesco a contrattaccare”).
+
+
+#### Recupero dei Punti Vita
+
+- **Riposo breve**: Recupera 1 Punto Vita (una volta per sessione, con una scena di recupero). - **Riposo lungo / Time-skip**: Può recuperare tutti i Punti Vita, a discrezione del Narratore. - **Cura narrativa**: Superare una **Prova Cruciale** legata al recupero (es. trovare un guaritore, elaborare un trauma) può ripristinare più Punti Vita o rimuovere una Sventura. - **Crescita**: Guadagnare nuovi Tratti aumenta permanentemente i tuoi Punti Vita massimi.
+
+---
+
+## Conflitto tra Giocatori - La Prova Contrapposta 🏹
 
 
 > A volte due personaggi possono trovarsi in contrasto — per ideali, orgoglio o interessi. 
@@ -44,12 +77,6 @@ Quando entrambi i giocatori stanno agendo l’uno contro l’altro, e **hanno en
 2. Subito dopo, anche il **secondo giocatore** una **PROVA**.
     
 3. Il **NARRATORE** interpreta i due esiti insieme, descrivendo la scena in base ai livelli di successo e alle tensioni emerse.
-
----
-
-## Punti Vita
-
-#TODO 
 
 ---
 
@@ -78,5 +105,3 @@ Quando entrambi i giocatori stanno agendo l’uno contro l’altro, e **hanno en
 > Subite una complicazione: I mercenari sentono il rumore della porta, e corrono verso di voi.”*
 
 ---
-
-#DLC 

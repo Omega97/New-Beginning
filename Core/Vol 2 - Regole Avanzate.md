@@ -47,10 +47,12 @@ Quando affronti una **PROVA**, il **NARRATORE** può stabilire un livello di **P
 
 ---
 
-## Uscire di Scena
+## Uscire di Scena 🚪
 
 Un’**USCITA DI SCENA** è un momento drammatico in cui il tuo eroe viene temporaneamente messo fuori gioco durante una **PROVA**, a causa di un pericolo attivato (estraendo un numero di ⚫ pari o superiore al livello stabilito dal **NARRATORE**). Potresti perdere conoscenza, essere catturato o affrontare un ostacolo insormontabile. Non è una sconfitta definitiva: rientri nella scena successiva, spesso con una Sventura o un nuovo spunto narrativo. Collabora con il **NARRATORE** per rendere questo evento un’occasione per arricchire la tua storia, trasformando il rischio in un nuovo inizio.
 
+
+#todo prova per tornare in scena?
 
 **📌 NOTA BENE: Calibrare il Rischio** Il NARRATORE dovrebbe usare il PERICOLO con parsimonia, riservandolo a momenti cruciali o situazioni ad alta tensione. Il livello di PERICOLO dovrebbe riflettere la difficoltà della PROVA. Evita esiti estremi a meno che non siano concordati con i giocatori per il tono della campagna. Il Pericolo non è una punizione, ma un invito a rendere la storia più intensa.
 
@@ -112,4 +114,13 @@ Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di applicare 
 
 > **Narratore**: *“Raggiungi la cima, ma la grondaia si spezza sotto il tuo peso. Cadi nel cortile con un tonfo. Le guardie ti circondano: ‘Prendetelo!’ Ti svegli in una cella… ma la storia continua nella prossima scena.”*
 
+### Esempio Uscire di Scena
+
+#todo 
+
+### Esempio Status Tematici
+
+#todo 
+
 ---
+

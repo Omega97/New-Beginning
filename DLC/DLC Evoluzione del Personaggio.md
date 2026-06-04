@@ -50,6 +50,9 @@ Quando affronti una **Prova Cruciale**, il tuo personaggio ha l’opportunità d
 
 > **📌 NOTA**: Collabora con il narratore per creare lezioni che arricchiscano la narrazione, facendo attenzione di **evitare effetti che garantiscono un successo**. Una Lezione nata da un fallimento potrebbe avere un costo (es. un ⚫ extra), mentre una da un successo dovrebbe esaltare il tuo eroe. Usa le Lezioni per dare profondità al tuo personaggio, non solo per vincere.
 
+
+#todo mettiamo la cicatrice (lezione quando fallisci) assieme alle lezioni?
+
 ---
 
 ## Aggiungere un Tratto 🌱

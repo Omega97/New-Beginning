@@ -1,6 +1,7 @@
 
 # New Beginning
 
+#core
 
 > _New_ _Beginning_ è un semplice **sistema di gioco**, leggero ed elegante, pensato per giochi di ruolo narrativi; niente tabelle, niente calcoli, solo la tua storia e il coraggio di rischiare – letteralmente. Ispirato a _Not_ _the_ _End_, il sistema ruota attorno a un unico dilemma:
 
@@ -31,7 +32,7 @@
 
 > La scheda personaggio è composta da una breve **descrizione del personaggio**, e da una lista di **tratti**, che daranno personalità, abilità, e carattere al tuo personaggio.
 
-### I Tratti
+### I Tratti 💪
 
 Userai i tratti del tuo personaggio per superare le prove. Assicurati di descrivere in dettaglio in quali contesti questi entrano in gioco, perché ciascun tratto _favorevole_ aggiungerà 1⚪️ nel sacchetto, che ti darà una migliore probabilità di superare la prova!
 
@@ -156,7 +157,7 @@ Ricorda: estrarre token è sempre un azzardo. Se estrai un numero di token pari 
 
 ---
 
-## Spendere i Token ⚫⚪
+## Spendere i Token
 
 > *Una volta estratti i token, il modo in cui decidi di spenderli contribuisce a definire come si sviluppa l’esito della prova e arricchisce la narrazione condivisa.*
 
@@ -193,20 +194,15 @@ Il narratore può scegliere di premiare tratti usati poco di frequente (2 bianch
 
 ---
 
-### Sventure ⚫️
+### Migliorare la Scena ⚪
 
-Hai deciso di spendere uno o più ⚫ estratti durante una **PROVA** per farti infliggere una **SVENTURA** dal **NARRATORE**. 
-Le sventure funzionano un po' come delle abilità negative; entrano in gioco quando una **PROVA** le riguarda.
+#todo
 
-Segui i seguenti passaggi:
+---
 
-1) **Annotala sulla Scheda**: Segna il **livello** della **SVENTURA**, ovvero il numero di ⚫ spesi per crearla. (Puoi avere più **SVENTURE** attive)
-    
-2) **Personalizzala**: Collabora con il **NARRATORE** per darle un nome e una descrizione legati alla **PROVA**.
-    
-3) **Effetto**: La **SVENTURA** aggiunge ⚫ extra pari al suo **livello** alle **PROVE** inerenti.
-    
-4) **Risoluzione**: Elimina la **SVENTURA** con un’azione narrativa o una **PROVA** specifica. Alcune sventure svaniscono col tempo, a discrezione del **NARRATORE**. Stabilisci assieme al **NARRATORE** delle linee guida generali per decidere quando risolvere la **SVENTURA**.
+### Complicare la Scena ⚫️
+
+#todo
 
 ---
 
@@ -221,6 +217,23 @@ Collocare un ⚪ è una risorsa preziosa, ma limitata. Richiede un successo, un 
 - Il **TOKEN** collocato viene **aggiunto al sacchetto** prima dell’estrazione, come se fosse un ⚪ normale, e può essere estratto come tutti gli altri.
 - Una volta estratto, il **TOKEN** collocato **non ritorna automaticamente** sul Tratto: se vuoi ricollocarlo, devi farlo nuovamente spendendo un ⚪ dopo un successo.
 - Alcune meccaniche che vedremo in seguito ti permetteranno di collocare anche ⚫.
+
+---
+
+### Sventure ⚫️
+
+Hai deciso di spendere uno o più ⚫ estratti durante una **PROVA** per farti infliggere una **SVENTURA** dal **NARRATORE**. 
+Le sventure funzionano un po' come delle abilità negative; entrano in gioco quando una **PROVA** le riguarda.
+
+Segui i seguenti passaggi:
+
+1) **Annotala sulla Scheda**: Segna il **livello** della **SVENTURA**, ovvero il numero di ⚫ spesi per crearla. (Puoi avere più **SVENTURE** attive)
+    
+2) **Personalizzala**: Collabora con il **NARRATORE** per darle un nome e una descrizione legati alla **PROVA**.
+    
+3) **Effetto**: La **SVENTURA** aggiunge ⚫ extra pari al suo **livello** alle **PROVE** inerenti.
+    
+4) **Risoluzione**: Elimina la **SVENTURA** con un’azione narrativa o una **PROVA** specifica. Alcune sventure svaniscono col tempo, a discrezione del **NARRATORE**. Stabilisci assieme al **NARRATORE** delle linee guida generali per decidere quando risolvere la **SVENTURA**.
 
 ---
 
@@ -248,9 +261,10 @@ Ora prendete i vostri personaggi, il sacchetto, il coraggio, e iniziate. La vost
 
 ### Esempi di Tratti
 
+#todo tratti e lezioni dovrebbero essere carte?
 
 **ARCHETIPO**: *Il Guerriero Errante*
-	Un combattente senza patria, alla ricerca di un nuovo scopo o di redenzione. Porta con sé le cicatrici di battaglie passate. 
+    Un combattente senza patria, alla ricerca di un nuovo scopo o di redenzione. Porta con sé le cicatrici di battaglie passate.
 
 **ARCHETIPO**: *La Sognatrice Mistica*
     Una figura legata ai sogni, agli spiriti o al mondo dell'incubo. Vede ciò che gli altri non vedono. 
@@ -308,7 +322,7 @@ Ora prendete i vostri personaggi, il sacchetto, il coraggio, e iniziate. La vost
 
 ---
 
-### Esempio Successo Totale – **Il Furto Perfetto**
+#### Esempio Successo Totale – **Il Furto Perfetto**
 
 > Narratore: *“Vuoi rubare un anello prezioso dal tavolo di un mercante distratto. Il mercante è occupato. È una prova Facile (2⚫).”*
 
@@ -326,7 +340,7 @@ Ora prendete i vostri personaggi, il sacchetto, il coraggio, e iniziate. La vost
 
 ---
 
-### Esempio Successo Parziale – **La Scalata sotto la Pioggia**
+#### Esempio Successo Parziale – **La Scalata sotto la Pioggia**
 
 > **Narratore**: *"Scali il muro di un maniero in una notte di tempesta. Difficoltà normale (3⚫). Pericolo basso (1⚪).*
 
@@ -348,7 +362,7 @@ Ora prendete i vostri personaggi, il sacchetto, il coraggio, e iniziate. La vost
 
 ---
 
-### Esempio Fallimento Parziale – **Il Duello d’Onore**
+#### Esempio Fallimento Parziale – **Il Duello d’Onore**
 
 > **Narratore**: *"Sfidi a duello un nobile arrogante per difendere il tuo onore. Difficoltà normale (3⚫)."*
 
@@ -371,7 +385,7 @@ Ora prendete i vostri personaggi, il sacchetto, il coraggio, e iniziate. La vost
 
 ---
 
-### Esempio Fallimento Totale – **La Fuga Disperata**
+#### Esempio Fallimento Totale – **La Fuga Disperata**
 
 > **Narratore**: *"Stai cercando di fuggire da una prigione con le guardie alle calcagna. Difficoltà molto alta (5⚫).”
 
@@ -390,6 +404,18 @@ Ora prendete i vostri personaggi, il sacchetto, il coraggio, e iniziate. La vost
 
 ---
 
+### Esempio Migliorare la Scena
+
+#todo
+
+---
+
+### Esempio Complicare la Scena
+
+#todo
+
+---
+
 ### Esempi di Sventura
 
 > *"Pare che il barista non abbia apprezzato il tuo ennesimo commento sulla sua forma tondeggiante... Alimentati dalla lingua tagliente del barista, nel bar, i pettegolezzi sul tuo conto si diffondono a macchia d'olio."*
@@ -405,5 +431,4 @@ Sconfiggi la tua nemesi in duello per eliminare questa **SVENTURA**.
 
 ---
 
-#core
 *Vedi:* [[Vol 2 - Regole Avanzate]]

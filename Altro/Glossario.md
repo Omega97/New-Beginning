@@ -36,3 +36,7 @@
 - **Tratto**: Una caratteristica del personaggio (**Archetipo**, **Qualità** o **Abilità**) che aggiunge 1⚪ (e talvolta 1⚫) al sacchetto quando usata in una **Prova**. Può essere migliorata o guadagnata tramite **Prove Cruciali**.
 
 - **Uscita di Scena**: Un evento narrativo drammatico causato da un **Pericolo**, che mette temporaneamente fuori gioco l’eroe (es. cattura, perdita di conoscenza). L’eroe rientra nella scena successiva, spesso con una **Sventura** o un nuovo spunto narrativo.
+
+---
+
+#other

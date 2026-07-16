@@ -1,8 +1,6 @@
 
 # DLC Evoluzione del Personaggio
 
-#DLC
-
 > Per campagne lunghe, in cui vuoi dare un senso di progresso agli eroi.
 
 
@@ -167,3 +165,5 @@ Se la **PROVA CRUCIALE** non ha avuto l'effetto desiderato, cerca di far riflett
 | Forza Bruta | Furia Controllata II |
 
 ---
+
+#DLC

@@ -1,8 +1,6 @@
 
 # DLC Gestionale
 
-#DLC 
-
 > *Per campagne orientate alla crescita, alla gestione di risorse e allo sviluppo nel tempo del proprio personaggio.*
 
 Questo DLC è ideale per storie in cui i personaggi non sono necessariamente un party unito, ma individui con vite, ambizioni e progetti personali. Ti permette di dare concretezza al concetto di **"lasciare un’impronta sul mondo"**.
@@ -100,3 +98,5 @@ Usa i time-skip non solo per avanzare il tempo, ma per far emergere drammi perso
 > **Narratore**: «Ottimo. Affronta una Prova Cruciale (Difficoltà 4⚫) per vedere come è andato l’investimento…»
 
 ---
+
+#DLC

@@ -1,8 +1,6 @@
 
 # Regole Avanzate
 
-#core
-
 > _Hai imparato le regole base del gioco. Ora sei già in grado di affrontare una nuova avventura, ma se vuoi spingerti oltre, immergerti più a fondo nelle possibilità del sistema e dare maggiore profondità alla tua storia… allora questo capitolo fa per te._
 
 Le **Regole Avanzate** non sono obbligatorie, ma rappresentano un invito a elevare l’esperienza di **New Beginning**. Qui troverai strumenti per rendere le prove più tese e drammatiche, per legare ancora di più il destino del personaggio alle sue scelte, e per trasformare ogni estrazione di token in un momento indimenticabile.
@@ -124,3 +122,4 @@ Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di applicare 
 
 ---
 
+#core

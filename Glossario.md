@@ -1,9 +1,11 @@
 
-# Glossario 📜
+# Glossario
 
 #todo collegamenti
 
 > *Un elenco di termini chiave per orientarti nel cuore di **New Beginning**. Questi concetti sono le fondamenta della tua storia: comprendile, e il tuo viaggio sarà più chiaro.*
+
+---
 
 - **Archetipo**: Il nucleo dell’identità del tuo eroe, un tratto fondamentale che definisce chi è (es. “Guerriero Errante” o “Sognatore Mistico”). Aggiunge 1⚪ a una **Prova** quando è rilevante.
 

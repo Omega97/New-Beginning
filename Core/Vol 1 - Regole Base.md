@@ -1,8 +1,6 @@
 
 # New Beginning
 
-#core
-
 > _New_ _Beginning_ è un semplice **sistema di gioco**, leggero ed elegante, pensato per giochi di ruolo narrativi; niente tabelle, niente calcoli, solo la tua storia e il coraggio di rischiare – letteralmente. Ispirato a _Not_ _the_ _End_, il sistema ruota attorno a un unico dilemma:
 
 **_Quanti token osi estrarre dal sacchetto?_**
@@ -432,3 +430,7 @@ Sconfiggi la tua nemesi in duello per eliminare questa **SVENTURA**.
 ---
 
 *Vedi:* [[Vol 2 - Regole Avanzate]]
+
+---
+
+#core

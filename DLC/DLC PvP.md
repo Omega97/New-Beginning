@@ -1,8 +1,6 @@
 
 # DLC PvP
 
-#DLC 
-
 > *Se nella tua avventura prevedi scontri aperti e conflitti diretti.*
 
 
@@ -108,3 +106,5 @@ Quando entrambi i giocatori stanno agendo l’uno contro l’altro, e **hanno en
 > Subite una complicazione: I mercenari sentono il rumore della porta, e corrono verso di voi.”*
 
 ---
+
+#DLC

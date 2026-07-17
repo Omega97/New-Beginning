@@ -10,10 +10,10 @@
 
 > _I personaggi possono unire le forze per affrontare una prova, condividendo risorse e rischi per ottenere un risultato comune._
 
-Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TRATTO** rilevante possono scegliere di **COLLABORARE**. Ogni **COLLABORARE**:
-- aggiunge uno e un solo ⚪ al sacchetto, e descrive in che modo sta aiutando. 
-- aumenta anche la difficoltà di 1⚫ (eccetto per il primo collaboratore).  
-- rischia di subire una **COMPLICAZIONE** o **SVENTURA** se vengono estratti ⚫. 
+Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TRATTO** rilevante possono scegliere di **COLLABORARE**. Ogni collaboratore:
+- aggiunge uno e un solo ⚪ al sacchetto, e descrive in che modo sta aiutando;
+- per ogni collaboratore **oltre il primo**, aggiunge anche **1⚫** al sacchetto (coordinarsi costa: più gente, più caos);
+- rischia di subire una **COMPLICAZIONE** o **SVENTURA** se vengono estratti ⚫.
 
 Ecco come si svolge la prova:
 
@@ -21,9 +21,9 @@ Ecco come si svolge la prova:
     
 - Ogni partecipante aggiunge 1⚪ per un tratto rilevante (ricorda che hai fino a 6⚪ a disposizione).
     
-- Il **NARRATORE** aumenta la **DIFFICOLTÀ** di 1⚫ per ogni collaboratore **oltre il primo**.
+- Si aggiungono i ⚫ del **RISCHIO** fissato dal **NARRATORE**, più **1⚫** per ogni collaboratore oltre il primo.
     
-- Il leader **ESTRAE** i **TOKEN** e spende i ⚪; i ⚫ si applicano a tutto il gruppo o a un singolo membro, a discrezione del **NARRATRE**.
+- Il leader **ESTRAE** i **TOKEN** e spende i ⚪; i ⚫ si applicano a tutto il gruppo o a un singolo membro, a discrezione del **NARRATORE**.
 
 ---
 
@@ -40,11 +40,12 @@ I Punti Vita non si rigenerano facilmente. Rappresentano quanto il personaggio �
 
 Il combattimento usa le **regole base delle Prove**, con alcune aggiunte per rendere gli scontri diretti più intensi.
 
-1. **Dichiarazione dell’Attacco** - L’attaccante descrive la propria azione (colpo, incantesimo, manovra psicologica, ecc.). - Il **Narratore** stabilisce la **Difficoltà** base (solitamente 3–5 ⚫), modificata dai tratti del difensore rilevanti. - L’attaccante aggiunge i propri **tratti favorevoli** (+1⚪ ciascuno). - Il difensore può aggiungere tratti per **difendersi** (+1⚪ al proprio sacchetto o +1⚫ al sacchetto dell’attaccante, a sua scelta).
+1. **Dichiarazione dell’Attacco** — L’attaccante descrive la propria azione (colpo, incantesimo, manovra psicologica, ecc.). Il **Narratore** fissa **Difficoltà** (⚪ minimi, di solito 1–2), **Rischio** (⚫ di base; spesso Alto o Estremo in scontro) e, se serve, la **Soglia di Sicurezza**. L’attaccante aggiunge i propri **tratti favorevoli** (+1⚪ ciascuno). Il difensore può aggiungere tratti per **difendersi** (+1⚪ al proprio sacchetto in una prova propria, o +1⚫ al sacchetto dell’attaccante, a sua scelta).
     
-2. **Estrazione e Danno**: L’attaccante estrae il numero di token che desidera.
+2. **Estrazione e Danno**: L’attaccante estrae il numero di token che desidera (dopo il controllo sulla **Soglia di Sicurezza**, se rilevante).
     
-	- Se **non supera la prova** → l’attacco fallisce (possibili complicazioni). - Se **supera la prova** → l’attacco va a segno. **Il danno inflitto** è pari al **numero totale di ⚪ estratti**.
+	- Se **non supera la prova** → l’attacco fallisce (possibili complicazioni).  
+	- Se **supera la prova** → l’attacco va a segno. **Il danno inflitto** è pari al **numero totale di ⚪ estratti**.
 
 
 #### Difesa e Riduzione del Danno 🛡
@@ -82,18 +83,18 @@ Quando entrambi i giocatori stanno agendo l’uno contro l’altro, e **hanno en
 
 ### Esempio di Prova di Gruppo
 
-> **Narratore**: *"I **tre eroi** vogliono sfondare una porta mentre i **mercenari** li stanno cercando. Difficoltà bassa (2⚫)”*
+> **Narratore**: *"I **tre eroi** vogliono sfondare una porta mentre i **mercenari** li stanno cercando. Difficoltà 1 (Facile). Rischio Medio (2⚫). Soglia di Sicurezza 6."*
 
 1. **Descrivi la scena**.
 2. **Riempi il sacchetto**:
-   - 2⚫ (Difficoltà)
-   - 1⚫ extra perché ci sono due collaboratori 
+   - 2⚫ (Rischio Medio)
+   - 1⚫ extra perché ci sono due collaboratori (oltre il primo)
    - 3⚪ (tratti del leader: *Forza Bruta*, *Coraggioso*, *Determinato*)
-   - 2⚪ extra perché ci sono due collaboratori (*Robusto, Abituato alla lotta*)
+   - 2⚪ extra perché ci sono due collaboratori (*Robusto*, *Abituato alla lotta*)
    → **Sacchetto**: ⚪⚪⚪⚪⚪⚫⚫⚫  
-2. **Il leader decide di estrarre 3 TOKEN**: ⚪⚪⚫ → **SUCCESSO PARZIALE** ✅  
-3. **Il leader spende i TOKEN**:
-   - 1⚪ → Superate la **PROVA**.  
+3. **Il leader decide di estrarre 3 TOKEN**: ⚪⚪⚫ → **SUCCESSO PARZIALE** ✅ (2⚪ ≥ Difficoltà 1; 1⚫ ≤ Soglia 6)
+4. **Il leader spende i TOKEN**:
+   - 1⚪ → Superate la **PROVA** (pari alla Difficoltà).  
    - 1⚪ → **Migliora la Scena**
    - 1⚫ → **COMPLICAZIONE**
 

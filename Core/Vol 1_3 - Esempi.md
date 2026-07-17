@@ -2,7 +2,29 @@
 # Esempi
 
 
-### Esempi di Tratti
+### Tratti
+
+
+#todo le qualità devono essere un po’ specifiche (non solo Carismatico/Affidabile)
+
+NO (troppo generico)
+- Carismatico
+- Affabile
+- Intelligente
+- Affidabile
+- Volontà incrollabile
+
+SI’
+- Cogliere al volo (Intelligente)
+- Carismatico quando mercanteggia
+- Bravo a combattere (ma qualche volta risulti arrogante)
+- Affidabile (se dai la parola, la gente tende a crederti)
+- Ingegnoso (per creare nuovi oggetti)
+- Perspicace
+- Pragmatico
+- Loquace
+- Spericolato
+
 
 #todo importante: tratti e lezioni dovrebbero essere carte da gioco? potremmo renderlo più tabletop, con un feel più concreto della abilità e dei token
 
@@ -54,26 +76,24 @@
 
 ---
 
-### Esempi di Successo e Fallimento
+### Successo e Fallimento
 
-| TOKEN nel sacchetto | TOKEN ESTRATTI | Lettura                                      | Esito                    |
-| ------------------- | -------------- | -------------------------------------------- | ------------------------ |
-| ⚪⚪⚪⚫                | ⚪⚪             | 2⚪ ≥ Diff. 1; solo ⚪                         | **SUCCESSO TOTALE** ⭐️   |
-| ⚪⚪⚫⚫                | ⚪⚫             | 1⚪ ≥ Diff. 1; c’è 1⚫                         | **SUCCESSO PARZIALE** ✅  |
-| ⚪⚪⚫⚫                | ⚪⚫             | Difficoltà **2**; 1⚪ non basta               | **FALLIMENTO PARZIALE** 🔻 |
-| ⚪⚫⚫⚫                | ⚫⚫             | 0⚪                                           | **FALLIMENTO TOTALE** ❌  |
-| ⚪⚪⚫⚫                | ⚫⚫             | Pericolo **2**; 2⚫ ≥ 2 → uscita              | **USCITA DI SCENA** 🚪   |
-#todo assicuriamoci che le regole non siano cambiate
+| TOKEN nel sacchetto | TOKEN ESTRATTI | Lettura                          | Esito                      |
+| ------------------- | -------------- | -------------------------------- | -------------------------- |
+| ⚪⚪⚪⚫                | ⚪⚪             | 2⚪ ≥ Diff. 1; solo ⚪             | **SUCCESSO TOTALE** ⭐️     |
+| ⚪⚪⚫⚫                | ⚪⚫             | 1⚪ ≥ Diff. 1; c’è 1⚫             | **SUCCESSO PARZIALE** ✅    |
+| ⚪⚪⚫⚫                | ⚪⚫             | Difficoltà **2**; 1⚪ non basta   | **FALLIMENTO PARZIALE** 🔻 |
+| ⚪⚫⚫⚫                | ⚫⚫             | 0⚪                               | **FALLIMENTO TOTALE** ❌    |
 
 ---
 
-#### Esempio Successo Totale – **Il Furto Perfetto**
+#### Successo Totale – **Il Furto Perfetto**
 
-> Narratore: *“Vuoi rubare un anello prezioso dal tavolo di un mercante distratto. Difficoltà 1. Metto 2⚫ nel sacchetto (scena favorevole). Nessun Pericolo.”*
+> Narratore: *“Vuoi rubare un anello prezioso dal tavolo di un mercante distratto. Difficoltà 1 (Facile). Rischio Medio (2⚫ nel sacchetto).”*
 
 1. **Descrivi l’azione**: *“Mi avvicino furtivamente, prendo l’anello e lo infilo in tasca senza farmi notare.”*
 2. **Costruisci il sacchetto**:  
-   - 2⚫ (Narratore)  
+   - 2⚫ (Rischio Medio)  
    - 2⚪ (Tratti: *Furtivo*, *Mani Leste*)  
    → **Sacchetto**: ⚪⚪⚫⚫  
 3. Estrai 2 **TOKEN**: ⚪⚪ → **SUCCESSO TOTALE** ⭐️ (2⚪ ≥ Difficoltà 1; solo bianchi)
@@ -85,31 +105,32 @@
 
 ---
 
-#### Esempio Successo Parziale – **La Scalata sotto la Pioggia**
+#### Successo Parziale – **La Scalata sotto la Pioggia**
 
-> **Narratore**: *"Scali il muro di un maniero in una notte di tempesta. Difficoltà 1. 3⚫ nel sacchetto (scena avversa). Pericolo 2."*
+> **Narratore**: *"Scali il muro di un maniero in una notte di tempesta. Difficoltà 1 (Facile). Rischio Alto (3⚫ nel sacchetto).”*
 
 1. **Descrivi**: *“Mi arrampico velocemente, usando le sporgenze a mio vantaggio.”*
 2. **Sacchetto**:  
-   - 3⚫ (Narratore)  
+   - 3⚫ (Rischio Alto)  
    - 2⚪ (Tratti: *Scalatore* e *Agile*)  
    → **Sacchetto**: ⚪⚪⚫⚫⚫  
-3. Estrai 3 **TOKEN**: ⚪⚫⚫  
-4. **Esito**: 2⚫ ≥ Pericolo 2 → **USCITA DI SCENA** 🚪 (non si valuta il successo: sei fuori gioco).
+3. Estrai 3 **TOKEN**: ⚪⚫⚫ → **SUCCESSO PARZIALE** ✅ (1⚪ ≥ Difficoltà 1; ci sono ⚫)
+4. **Spendi i TOKEN**:  
+   - 1⚪ → superi la **PROVA**.  
+   - 1⚫ → **SVENTURA** (*Scarpe Bagnate*)  
+   - 1⚫ → **COMPLICAZIONE** (una tegola scivola; una sentinella si volta verso il rumore).
 
-> **Narratore**: *“La grondaia si spezza. Cadi nel cortile. Le guardie ti circondano: ‘Prendetelo!’ Ti svegli in una cella… ma la storia continua nella prossima scena.”*
-
-*Variante senza Pericolo (o Pericolo 0), stessa estrazione ⚪⚫⚫:* 1⚪ ≥ Difficoltà 1 e hai dei ⚫ → **SUCCESSO PARZIALE**. Spendi 1⚪ per superare; i ⚫ in **Sventura** (*Scarpe Bagnate*) e **Complicazione** (tegola, sentinella).
+> **Narratore**: *“Arrivi sul tetto, ma le scarpe sono fradice e una tegola cade nel cortile. Una guardia alza lo sguardo… la storia si complica, ma sei dentro.”*
 
 ---
 
-#### Esempio Fallimento Parziale – **Il Duello d’Onore**
+#### Fallimento Parziale – **Il Duello d’Onore**
 
-> **Narratore**: *"Sfidi a duello un nobile arrogante. Difficoltà **2** (devi davvero impressionare). 3⚫ nel sacchetto. Nessun Pericolo."*
+> **Narratore**: *"Sfidi a duello un nobile arrogante. Difficoltà **2** (Impegnativa — devi davvero impressionare). Rischio Alto (3⚫).”*
 
 1. **Descrivi**: “Carico con la spada, mirando al braccio per disarmarlo.”  
 2. **Sacchetto**:  
-   - 3⚫ (Narratore)  
+   - 3⚫ (Rischio Alto)  
    - 3⚪ (Tratti: *Spadaccino*, *Coraggioso*, *Vendicativo*)  
    → **Sacchetto**: ⚪⚪⚪⚫⚫⚫
 3. Estrai 4 **TOKEN**: ⚪⚫⚫⚫ → **FALLIMENTO PARZIALE** 🔻 (1⚪ < Difficoltà 2)
@@ -126,17 +147,17 @@
 
 ---
 
-#### Esempio Fallimento Totale – **La Fuga Disperata**
+#### Fallimento Totale – **La Fuga Disperata**
 
-> **Narratore**: *"Fuggi dalla prigione con le guardie alle calcagna. Difficoltà 1. 5⚫ nel sacchetto (scena disperata). Nessun Pericolo."*
+> **Narratore**: *"Fuggi dalla prigione con le guardie alle calcagna. Difficoltà 1 (Facile). Rischio Estremo (5⚫ nel sacchetto).”*
 
 1. **Descrivi**: “Corro verso la finestra, salto e mi aggrappo al carro in movimento.”  
 2. **Sacchetto**:  
-   - 5⚫ (Narratore)  
+   - 5⚫ (Rischio Estremo)  
    - 1⚪ (Tratto: *Atletico*)  
    → **Sacchetto**: ⚪⚫⚫⚫⚫⚫  
-3. Estrai 2 **TOKEN**: ⚫⚫ → **FALLIMENTO TOTALE** ❌ (0⚪)
-4. **Spendi i TOKEN**:
+1. Estrai 2 **TOKEN**: ⚫⚫ → **FALLIMENTO TOTALE** ❌ (nessun ⚪)
+2. **Spendi i TOKEN**:
    - 2⚫ → **SVENTURA**
 
 > **Narratore**: *“Salti… ma atterri male. Un dolore lancinante alla caviglia. Le guardie ti raggiungono. ‘Fine della corsa.’
@@ -144,19 +165,20 @@
 
 ---
 
-### Esempio Migliorare la Scena
+### Migliorare la Scena
 
-#todo
+Lyra ha appena superato una prova di "diplomazia" (Difficoltà 2) con 4⚪ e 1⚫. Spende 2⚪ per superare la prova e le avanzano 2⚪. Dice al Narratore: "Voglio che, grazie al mio fascino, il nobile non solo accetti il mio accordo, ma mi riveli anche un segreto sulla sua famiglia." Il Narratore annuisce e racconta: "Mentre firmate il contratto, il nobile ti confida che suo cugino, il comandante della guarnigione, sta tramando contro il re. È un'informazione preziosa, che potresti sfruttare." Lyra ha usato i suoi ⚪ per trasformare una semplice trattativa in un colpo di scena.
 
----
-
-### Esempio Complicare la Scena
-
-#todo
 
 ---
 
-### Esempi di Sventura
+### Complicare la Scena
+
+Kael ha fallito una prova di "furtività" (Difficoltà 2) con 1⚪ e 3⚫. Il fallimento è certo, ma ora deve spendere i 3⚫. Dice al Narratore: "Non mi sono fatto scoprire, ma ho lasciato una traccia. E forse ho fatto cadere qualcosa." Il Narratore annuisce e racconta: "Riesci a svignartela, ma la tua cappa si impiglia in una cassapanca e lasci cadere un pugnale con le tue iniziali. I guardiani lo troveranno e sapranno che sei stato qui. Inoltre, la cassapanca che hai urtato conteneva un allarme magico: tra pochi minuti, tutto il palazzo sarà in stato di massima allerta." Kael ha trasformato un fallimento in un'avventura più tesa e pericolosa.
+
+---
+
+### Sventura
 
 > *"Pare che il barista non abbia apprezzato il tuo ennesimo commento sulla sua forma tondeggiante... Alimentati dalla lingua tagliente del barista, nel bar, i pettegolezzi sul tuo conto si diffondono a macchia d'olio."*
 

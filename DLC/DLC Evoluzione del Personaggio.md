@@ -10,27 +10,29 @@
 
 > *La prova cruciale è un evento speciale che causa una crescita interiore del personaggio. In questo capitolo vedremo come arricchire il personaggio con abilità speciali e nuovi tratti.*
 
-Affronti una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo dell'**EROE**;
+Dichiari di star affrontando una **PROVA CRUCIALE** quando la consideri determinante per lo sviluppo dell’**EROE** (in qualsiasi momento **prima di ESTRARRE**). Poi affronti la **PROVA** con le regole normali (Vol 1).
 
-1. Dichiara la **PROVA CRUCIALE** in qualsiasi momento prima di **ESTRARRE**.
-    
-2. Affronta la **PROVA** normalmente.
-    
-3. Scegli **una** delle seguenti opzioni (_vedi prossima pagina_):
-	- o aggiungere un **NUOVO TRATTO**
-	- o **MIGLIORARE UN TRATTO**
-	- o imparare una **LEZIONE**
-    
-4. Se hai fallito la **PROVA**, vieni segnato da un evento traumatico significativo; **SPENDI** **ameno** 1⚫️ su una **SVENTURA**.
+### Se hai **SUCCESSO**
+
+Scegli **una** delle seguenti opzioni (in collaborazione con il **NARRATORE**):
+
+- **MIGLIORARE UN TRATTO** usato nella prova (es. da “Persuasivo” a “Persuasivo II” → quel tratto dà **+2⚪** invece di 1; vedi sotto);
+- **AGGIUNGERE UN NUOVO TRATTO** coerente con l’esperienza (spesso un’**Abilità**: “cosa ho imparato”);
+- imparare una **LEZIONE** legata al contesto della prova.
+
+### Se hai **FALLITO**
+
+A **discrezione del Narratore**, la sconfitta può segnarti in uno o più di questi modi:
+
+- **cambiare** un tratto (evolverlo, restringerlo, piegarlo all’esperienza — es. *Fiducioso* → *Cauto con gli Stranieri*);
+- aggiungere una **SVENTURA** significativa (spesso spendendo almeno 1⚫ estratto, se ne hai);
+- **qualche volta** aggiungere comunque un **nuovo tratto** nato dal fallimento (es. diffidenza, cicatrice, lezione amara).
+
+#todo esempi di fallimento “fecondo” vs solo sventura
 
 #todo migliorare / peggiorare #qualità solo prova cruciale
 
-- **NUOVO TRATTO**: Aggiungi un nuovo **TRATTO** alla tua scheda, coerente con l’esperienza vissuta. Se hai fallito la **PROVA**, cerca di creare un **TRATTO** che rifletta l'insuccesso (es. sei diffidente/hai imparato a non fidarti degli altri).
-- **MIGLIORARE UN TRATTO**: Se hai avuto successo, puoi aumentare il livello di un **TRATTO** usato nella prova (es. da “Persuasivo” a “Persuasivo II”). Usare quel tratto ti darà 1⚪ extra.
-- Impari una **LEZIONE**: una nuova competenza acquisita grazie a un'esperienza cruciale; ti darà effetti vantaggiosi in contesti narrativi specifici, inerenti alla prova appena affrontata. Se hai fallito la **PROVA**, cerca di fare in modo che la **LEZIONE** lo rifletta.
-
-
-📌 **NOTA:** Il narratore decide se una prova è cruciale o meno anche in base alla lunghezza della campagna; mirate ad un numero approssimativo di prove di questo tipo. Puoi usare ciascuna lezione al più una volta per sessione.
+📌 **NOTA:** Il narratore decide se una prova è davvero cruciale anche in base alla lunghezza della campagna; mirate a un numero approssimativo di prove di questo tipo. Puoi usare ciascuna **Lezione** al più una volta per sessione.
 
 ---
 
@@ -59,7 +61,7 @@ Quando affronti una **Prova Cruciale**, il tuo personaggio ha l’opportunità d
 
 Il Narratore può concedere un **nuovo Tratto** in due momenti principali:
 
-- Dopo una **Prova Cruciale** (sia in caso di successo che di fallimento significativo)
+- Dopo una **Prova Cruciale** in caso di **successo** (scelta del giocatore); in caso di **fallimento**, solo se il Narratore lo concede come crescita amara
 - Dopo un **periodo prolungato di pratica** durante un Time-skip o tra una sessione e l’altra (ideale con il DLC Gestionale)
 
 Ecco come funziona:
@@ -84,27 +86,27 @@ Il Narratore ha il compito di guidare questo processo con saggezza:
 
 > _La vera crescita non sta solo nell’aggiungere nuovi tratti, ma nel far evolvere quelli che già definiscono il tuo personaggio._
 
-Il Narratore può concedere il miglioramento di un tratto dopo una **Prova Cruciale** (successo o fallimento significativo) o dopo un **periodo prolungato di pratica** durante un Time-skip.
-Il Narratore ha l’ultima parola per mantenere coerenza e bilanciamento.
+Il **miglioramento di livello** (più ⚪) si ottiene di norma dopo una **Prova Cruciale** **riuscita**, o dopo un **periodo prolungato di pratica** (Time-skip).  
+L’**evoluzione narrativa** (cambiare il tratto senza per forza potenziarlo) è invece tipica del **fallimento** in Prova Cruciale, o di archi intensi.
+
+Il Narratore ha l’ultima parola per coerenza e bilanciamento.
 
 
-#### Miglioramento di Livello
+#### Miglioramento di Livello (su successo)
 
 Aggiungi un **II** (o un aggettivo evocativo) al nome del tratto.  
 **Esempi**: *Persuasivo* → **Persuasivo II**, *Furtivo* → **Fantasma Urbano II**, *Scalatore* → **Scalatore Esperto II**.  
 
-Quando usi il tratto migliorato, aggiungi **+2⚪** al sacchetto invece di 1 (massimo un tratto migliorato per prova).
+Quando usi il tratto migliorato, aggiungi **+2⚪** al sacchetto **invece di 1** (massimo un tratto migliorato per prova).
 
 
-#### Evoluzione Narrativa
+#### Evoluzione Narrativa (spesso su fallimento)
 
-Trasforma o specializzi il tratto in qualcosa di più profondo e personale.  
+Trasforma o specializzi il tratto in qualcosa di più profondo e personale — non necessariamente più forte.  
 **Esempi**:  
 - *Testardo* → *Risoluto*  
 - *Sfortunato* → *Fortuna del Disperato*  
 - *Fiducioso* → *Cauto con gli Stranieri* (dopo un tradimento)
-
-Questa seconda opzione è particolarmente indicata quando il miglioramento nasce da un fallimento o da un arco narrativo intenso.
 
 ---
 
@@ -154,7 +156,7 @@ Se la **PROVA CRUCIALE** non ha avuto l'effetto desiderato, cerca di far riflett
 
 ### Esempi di Migliorare un Tratto
 
-> I tratti possono essere migliorati. Quando usi il tratto, ricevi ⚪ in base al livello. Quando gli assegni un nome, aggiungi un "II" alla fine, per indicare che si tratta di un tratto migliorato.
+> I tratti possono essere migliorati di livello dopo un successo in Prova Cruciale (o pratica prolungata). Un tratto di livello II aggiunge **+2⚪** invece di 1. Nel nome, di solito compare un “II” (o un aggettivo evocativo).
 
 | Tratto      | Livello 2            |
 | ----------- | -------------------- |

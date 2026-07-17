@@ -6,7 +6,7 @@
 
 ---
 
-## Dare una Mano ✋
+## Dare una Mano - La Prova di Gruppo✋
 
 > _I personaggi possono unire le forze per affrontare una prova, condividendo risorse e rischi per ottenere un risultato comune._
 
@@ -15,8 +15,7 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 - aumenta anche la difficoltà di 1⚫ (eccetto per il primo collaboratore).  
 - rischia di subire una **COMPLICAZIONE** o **SVENTURA** se vengono estratti ⚫. 
 
-
-**Prova di Gruppo**
+Ecco come si svolge la prova:
 
 - Un giocatore **guida la PROVA**, descrivendo l’azione collettiva.
     
@@ -25,9 +24,6 @@ Se affronti una **PROVA**, altri **EROI** o **PERSONAGGI SECONDARI** con un **TR
 - Il **NARRATORE** aumenta la **DIFFICOLTÀ** di 1⚫ per ogni collaboratore **oltre il primo**.
     
 - Il leader **ESTRAE** i **TOKEN** e spende i ⚪; i ⚫ si applicano a tutto il gruppo o a un singolo membro, a discrezione del **NARRATRE**.
-
-
-#todo da unire a Dare una mano?
 
 ---
 

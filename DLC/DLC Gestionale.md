@@ -95,7 +95,7 @@ Usa i time-skip non solo per avanzare il tempo, ma per far emergere drammi perso
 
 > **Narratore**: «Sono passati tre mesi. Come hai usato il tuo tempo?»  
 > **Giocatore**: «Ho investito nello Slot Tempo della bottega e provato a espanderla.»  
-> **Narratore**: «Ottimo. Affronta una Prova Cruciale (Difficoltà 4⚫) per vedere come è andato l’investimento…»
+> **Narratore**: «Ottimo. Affronta una Prova Cruciale (Difficoltà 2 — Impegnativa; Rischio a discrezione del Narratore) per vedere come è andato l’investimento…»
 
 ---
 

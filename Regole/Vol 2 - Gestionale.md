@@ -1,9 +1,13 @@
 
-# DLC Gestionale
+# Gestionale
+
+#todo nuova intro ora che Gestionale non è più solo una DLC
 
 > *Per campagne orientate alla crescita, alla gestione di risorse e allo sviluppo nel tempo del proprio personaggio.*
 
 Questo DLC è ideale per storie in cui i personaggi non sono necessariamente un party unito, ma individui con vite, ambizioni e progetti personali. Ti permette di dare concretezza al concetto di **"lasciare un’impronta sul mondo"**.
+
+#todo non è più una DLC
 
 ---
 
@@ -21,7 +25,7 @@ Per ogni **Tratto** significativo del tuo personaggio (Archetipo, Qualità o Abi
 
 **Regole:**
 - Gli Asset devono essere coerenti con il Tratto a cui sono collegati (ma non necessariamente identici).
-- Un Asset ben gestito può aggiungere 1⚪ nelle prove in cui è rilevante.
+- Un Asset ben gestito può aggiungere 1⚪ nelle prove in cui è rilevante. 
 - Se l’Asset viene messo in gioco e la prova fallisce gravemente, il Narratore può infliggere una **Sventura** legata a esso (es. “Bottega Danneggiata”, “Contatto Scomparso”).
 
 **Nota:** Non tutti i tratti devono avere uno Slot Asset. Quelli più importanti e sviluppati avranno la priorità.
@@ -76,27 +80,10 @@ Usa i time-skip non solo per avanzare il tempo, ma per far emergere drammi perso
 
 ---
 
-# Esempi
+## Integrazione con altri giochi di ruolo
 
-
-### Esempio di Slot Asset
-
-**Tratto**: *Mercante Astuto*  
-**Asset**: “La Vecchia Bottega sul Porto”  
-*Effetto*: +1⚪ nelle prove di commercio o negoziazione svolte nella bottega o con clienti del porto.
-
-### Esempio di Slot Tempo
-
-**Slot 1**: Gestione della bottega (lavoro)  
-**Slot 2**: Frequentare il Circolo degli Eruditi (studio e contatti)  
-**Slot 3**: Prendersi cura della madre anziana (relazione)
-
-### Esempio di Time-skip
-
-> **Narratore**: «Sono passati tre mesi. Come hai usato il tuo tempo?»  
-> **Giocatore**: «Ho investito nello Slot Tempo della bottega e provato a espanderla.»  
-> **Narratore**: «Ottimo. Affronta una Prova Cruciale (Difficoltà 2 — Impegnativa; Rischio a discrezione del Narratore) per vedere come è andato l’investimento…»
+#todo Abbiamo avuto l'idea che questo volume si presta bene ad altri giochi, tipo D&D
 
 ---
 
-#DLC
+#core

@@ -3,6 +3,7 @@
 
 > *Se nella tua avventura prevedi scontri aperti e conflitti diretti.*
 
+#todo descrizione più dettagliata
 
 ---
 
@@ -55,6 +56,8 @@ Il difensore non è passivo. Può scegliere una delle seguenti opzioni **prima**
 - **Difesa Attiva**: Aggiunge i propri tratti al sacchetto dell’attaccante come ⚫ (rende più difficile colpire forte). - **Schivare / Contrastare**: Effettua una **Prova Contrapposta** (vedi sotto). Se ha successo, riduce il danno di un numero pari ai ⚪ estratti nella propria prova. - **Resistenza Narrativa**: Spende 1 Punto Vita volontariamente per ottenere un vantaggio narrativo (es. “accetto il colpo ma riesco a contrattaccare”).
 
 
+#todo combat estremamente raro
+
 #### Recupero dei Punti Vita 💚
 
 - **Riposo breve**: Recupera 1 Punto Vita (una volta per sessione, con una scena di recupero). - **Riposo lungo / Time-skip**: Può recuperare tutti i Punti Vita, a discrezione del Narratore. - **Cura narrativa**: Superare una **Prova Cruciale** legata al recupero (es. trovare un guaritore, elaborare un trauma) può ripristinare più Punti Vita o rimuovere una Sventura. - **Crescita**: Guadagnare nuovi Tratti aumenta permanentemente i tuoi Punti Vita massimi.
@@ -103,5 +106,7 @@ Quando entrambi i giocatori stanno agendo l’uno contro l’altro, e **hanno en
 > Subite una complicazione: I mercenari sentono il rumore della porta, e corrono verso di voi.”*
 
 ---
+
+#todo rientro in gioco dei personaggi
 
 #DLC

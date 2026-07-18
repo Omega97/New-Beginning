@@ -65,3 +65,5 @@
 
 - Sacchetto = unico motore di risoluzione · DLC opzionali · italiano, story-first
 - Non cancellare `#todo` / `#idea` nei doc senza migrarli qui o risolverli
+
+---

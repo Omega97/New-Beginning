@@ -1,0 +1,6 @@
+
+#todo fabbriche competitors?
+
+---
+
+#story

@@ -1,8 +1,6 @@
 
 # New Beginning
 
-#todo core: gestionale semplice con tanto roleplay
-
 > _New_ _Beginning_ è un semplice **sistema di gioco**, leggero ed elegante, pensato per giochi di ruolo narrativi; niente tabelle, niente calcoli, solo la tua storia e il coraggio di rischiare – letteralmente. Ispirato a _Not_ _the_ _End_, il sistema ruota attorno a un unico dilemma:
 
 **_Quanti token osi estrarre dal sacchetto?_**
@@ -49,15 +47,6 @@ I tratti si dividono in tre tipi:
 
 **Nota**: occasionalmente, il narratore deciderà che un tuo tratto gioca in tuo sfavore. Per esempio, essere _orgoglioso_ può aiutarti durante un dibattito, ma non se stai cercando di evitare di ferire le emozioni altrui. In questo caso, quel tratto ti darà 1⚫️ invece di 1⚪️.
 
-
-#todo nota: la qualità è più potente perché entra in gioco più spesso
-
-#todo maybe: le Qualità non danno punti, ma hai più Abilità?
-
-#todo La qualità deve essere CHIARA e indicare un ambito specifico, in modo che le qualità che sbloccherà in futuro si spostano in altri ambiti
-
-#todo crescita al di là dell’aggiungere tratti; puoi bilanciare tratti forti con un debuff (quando fallisci / in base a come ti comporti) (colloca nero, downgrade abilità, sventura) (Carismatico -> Opportunista), ma anche al contrario (da male in bene) (accumulare conseguenze) (narrow -> potente)
-
 ---
 
 ## Affrontare una Prova 🎯
@@ -76,14 +65,15 @@ I tratti si dividono in tre tipi:
 	- aggiungi **1⚪** per ogni **TRATTO** favorevole che metti in gioco;
 	- aggiungi i **⚫** pari al **RISCHIO** stabilito dal **NARRATORE**;
 	- eventualmente, aggiungi **1⚫** per ogni **TRATTO** che influisce negativamente, e i ⚫ delle **SVENTURE** rilevanti.
+	- **rispetta sempre il limite di 6⚪ e 6⚫** (vedi nota sotto): se i bonus o i malus spingerebbero oltre, non aggiungere oltre il massimo.
     
 4. **Decidi** quanti **TOKEN** estrarre (tutti insieme, alla cieca).
     
 5. **Estrai** e determina l’**esito** (vedi sotto); poi **spendili** per raccontare la scena.
+    
+6. **Mostra i token non estratti** rimasti nel sacchetto: servono solo a **controllare i conti** (che i colori e i numeri tornino e che non manchi nessun token). **Non contano** per l’esito della prova né per le spese.
 
 ### Difficoltà ⚪
-
-#todo anche numero minimo di neri per fallire?
 
 La **DIFFICOLTÀ** è il numero di ⚪ che ti servono per superare la **PROVA**. Di base, la **DIFFICOLTÀ** della prova è pari a **1**.
 
@@ -107,15 +97,16 @@ Il **RISCHIO** è il numero da **1 a 6** che il Narratore assegna alla scena per
 
 **📌 NOTA:** Se il rischio è 1, assicurati che la prova sia davvero necessaria (spesso basta la narrazione).
 
-**📌 NOTA:** Il sacchetto può contenere fino a 6⚪ e 6⚫, per un totale massimo di 12 token.
+**📌 NOTA — Limite 6⚪ / 6⚫:** Il sacchetto può contenere **al massimo 6⚪ e 6⚫** (totale 12 token). Il limite vale **sempre**, anche quando entrano in gioco bonus o malus multipli (collaboratori, sventure, lezioni, token collocati, tratti sfavorevoli, ecc.). Se la costruzione del sacchetto supererebbe il massimo di un colore, **non si aggiungono token oltre 6** per quel colore: il Narratore e i giocatori scelgono insieme quali contributi restano dentro (in genere si tengono i più rilevanti narrativamente).
 
 | Fasi della Prova           | Azioni possibili                                                                                                             |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Descrizione                | Descrivi la PROVA che stai cercando di affrontare.                                                                           |
 | Impostazione               | Il NARRATORE fissa **DIFFICOLTÀ** (di base 1), **RISCHIO**, e **Soglia Critica** (opzionale)                                 |
-| Costruire <br>il Sacchetto | Il giocatore aggiunge ⚪ per i TRATTI favorevoli; si aggiungono i ⚫ del **RISCHIO**, dei tratti sfavorevoli e delle Sventure. |
+| Costruire <br>il Sacchetto | Il giocatore aggiunge ⚪ per i TRATTI favorevoli; si aggiungono i ⚫ del **RISCHIO**, dei tratti sfavorevoli e delle Sventure. Rispetta il **limite 6⚪ / 6⚫**. |
 | Estrazione                 | Estrai tanti TOKEN quanti desideri dal sacchetto, tutti insieme.                                                             |
-| Spendere i Token           | Il giocatore decide come spendere i TOKEN.                                                                                   |
+| Spendere i Token           | Il giocatore decide come spendere i TOKEN **estratti**. I token **non estratti non contano**.                                |
+| Controllo del sacchetto    | Mostra i token rimasti nel sacchetto per verificare che i conti tornino e che non manchino token.                            |
 | Descrizione dell'Esito     | Il NARRATORE descrive l'esito della scena, e collabora su complicazioni e sventure.                                          |
 
 
@@ -128,8 +119,6 @@ Estrarre è un azzardo: devi raggiungere la **Difficoltà** in ⚪, ma ogni ⚫ 
 ---
 
 ### Soglia Critica ⚫
-
-#todo cambiare Livello di Sicurezza in Soglia Critica
 
 > _Ogni azione audace porta con sé un’ombra di rischio. Quando il narratore fissa una Soglia Critica bassa, il destino del tuo eroe è appeso a un filo: troppi ⚫ estratti e scatta un’**uscita di scena** che cambia il corso della storia._
 
@@ -203,17 +192,7 @@ La sezione successiva ti spiegherà cosa puoi fare con i **TOKEN** che ti sono r
 
 * In caso di **FALLIMENTO**, non spendi ⚪ per superare la prova (non l’hai superata). I ⚫ si spendono comunque in complicazioni e sventure; eventuali ⚪ estratti restano “narrativi” o si collocano solo se una regola speciale lo consente.
 
-#todo CREAZIONE DEL PERSONAGGIO: il narratore deve assicurarsi che un tratto non sia troppo generico, e che non ci siano tratti troppo simili
-
-#todo idea: i tratti usati senza l’Archetipo sono offline per la sessione
-
-Il narratore può scegliere di premiare tratti usati poco di frequente (2 bianchi?)
-
-#todo idea: skill molto specifica parte al LV2?
-
-#todo Il narratore deve consentire ai giocatori di “fare il loro lavoro”. Ci pensa il narratore a farli uscire dalla-confort zone.
-
-#todo Il DM può voler premiare un tratto usato in modo interessante?
+**📌 NOTA — Token non estratti:** Contano **solo** i token che hai **estratto**. Quelli rimasti nel sacchetto **non** influenzano esito, spese, miglioramenti, complicazioni o sventure. Alla fine della prova (dopo l’estrazione e le spese), **svuota e mostra** il resto del sacchetto: è un controllo pratico per assicurarsi che i numeri tornino e che non manchino token sul tavolo.
 
 ---
 
@@ -241,8 +220,6 @@ Un ⚪ speso per migliorare la scena può essere usato per:
 
 **📌 NOTA:** Più ⚪ spendi, più significativo o duraturo può essere il miglioramento. Spenderne 2 o 3 può trasformare un piccolo vantaggio in una svolta decisiva. Collabora con il Narratore per trovare un equilibrio che renda la storia più interessante per tutti.
 
-#todo spendere al più 1 token? o quanti vuoi?
-
 ---
 
 ### Complicare la Scena ⚫️
@@ -268,8 +245,6 @@ Un ⚫ speso per complicare la scena può essere usato per:
 
 
 **📌 NOTA:** Più ⚫ spendi, più la complicazione è significativa. Spenderne 1 può essere un piccolo intoppo; spenderne 3 può capovolgere l'intera situazione. Usa i ⚫ per creare dramma, non per punire: una complicazione ben raccontata è spesso più memorabile di un successo perfetto.
-
-#todo spendere al più 1 token? o quanti vuoi?
 
 ---
 
@@ -309,16 +284,12 @@ Segui i seguenti passaggi:
 
 Un’**USCITA DI SCENA** è un momento drammatico in cui il tuo eroe viene temporaneamente messo fuori gioco durante una **PROVA**, perché hai estratto un numero di **⚫ superiore alla Soglia Critica** fissata dal **NARRATORE**. Potresti perdere conoscenza, essere catturato o affrontare un ostacolo insormontabile. Non è una sconfitta definitiva: rientri nella scena successiva, spesso con una **Sventura** o un nuovo spunto narrativo. Collabora con il **NARRATORE** per rendere questo evento un’occasione per arricchire la tua storia, trasformando il rischio in un nuovo inizio.
 
-#todo prova per tornare in scena?
-
 **📌 NOTA BENE: Calibrare la Soglia Critica**  
 Il NARRATORE dovrebbe abbassare la Soglia Critica con parsimonia, riservando le soglie basse (0–2) a momenti cruciali o ad alta tensione. Evita esiti letali a meno che non siano concordati con i giocatori. Una soglia bassa non è una punizione, ma un invito a rendere la storia più intensa.
 
 ---
 
 ### Tornare in scena
-
-#todo breve paragrafo
 
 ---
 

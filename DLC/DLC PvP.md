@@ -3,8 +3,6 @@
 
 > *Se nella tua avventura prevedi scontri aperti e conflitti diretti.*
 
-#todo descrizione più dettagliata
-
 ---
 
 ## Dare una Mano - La Prova di Gruppo✋
@@ -20,11 +18,13 @@ Ecco come si svolge la prova:
 
 - Un giocatore **guida la PROVA**, descrivendo l’azione collettiva.
     
-- Ogni partecipante aggiunge 1⚪ per un tratto rilevante (ricorda che hai fino a 6⚪ a disposizione).
+- Ogni partecipante aggiunge 1⚪ per un tratto rilevante.
     
 - Si aggiungono i ⚫ del **RISCHIO** fissato dal **NARRATORE**, più **1⚫** per ogni collaboratore oltre il primo.
     
-- Il leader **ESTRAE** i **TOKEN** e spende i ⚪; i ⚫ si applicano a tutto il gruppo o a un singolo membro, a discrezione del **NARRATORE**.
+- **Limite 6⚪ / 6⚫:** come nelle regole base, il sacchetto non supera mai 6 token per colore, **anche con collaboratori e altri bonus**. Se i contributi andrebbero oltre, si tagliano al massimo (scegliendo quali restano dentro, di solito i più rilevanti).
+    
+- Il leader **ESTRAE** i **TOKEN** e spende i ⚪; i ⚫ si applicano a tutto il gruppo o a un singolo membro, a discrezione del **NARRATORE**. I token **non estratti non contano** per l’esito: a fine prova si mostrano per controllare i conti (come in **Vol 1**).
 
 ---
 
@@ -55,9 +55,6 @@ Il difensore non è passivo. Può scegliere una delle seguenti opzioni **prima**
 
 - **Difesa Attiva**: Aggiunge i propri tratti al sacchetto dell’attaccante come ⚫ (rende più difficile colpire forte). - **Schivare / Contrastare**: Effettua una **Prova Contrapposta** (vedi sotto). Se ha successo, riduce il danno di un numero pari ai ⚪ estratti nella propria prova. - **Resistenza Narrativa**: Spende 1 Punto Vita volontariamente per ottenere un vantaggio narrativo (es. “accetto il colpo ma riesco a contrattaccare”).
 
-
-#todo combat estremamente raro
-
 #### Recupero dei Punti Vita 💚
 
 - **Riposo breve**: Recupera 1 Punto Vita (una volta per sessione, con una scena di recupero). - **Riposo lungo / Time-skip**: Può recuperare tutti i Punti Vita, a discrezione del Narratore. - **Cura narrativa**: Superare una **Prova Cruciale** legata al recupero (es. trovare un guaritore, elaborare un trauma) può ripristinare più Punti Vita o rimuovere una Sventura. - **Crescita**: Guadagnare nuovi Tratti aumenta permanentemente i tuoi Punti Vita massimi.
@@ -76,8 +73,6 @@ Quando entrambi i giocatori stanno agendo l’uno contro l’altro, e **hanno en
 2. Subito dopo, anche il **secondo giocatore** una **PROVA**.
     
 3. Il **NARRATORE** interpreta i due esiti insieme, descrivendo la scena in base ai livelli di successo e alle tensioni emerse.
-
-#todo in sezione combattimento?
 
 ---
 
@@ -106,7 +101,5 @@ Quando entrambi i giocatori stanno agendo l’uno contro l’altro, e **hanno en
 > Subite una complicazione: I mercenari sentono il rumore della porta, e corrono verso di voi.”*
 
 ---
-
-#todo rientro in gioco dei personaggi
 
 #DLC

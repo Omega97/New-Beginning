@@ -3,8 +3,6 @@
 
 > Per campagne lunghe, in cui vuoi dare un senso di progresso agli eroi.
 
-#todo descrizione + non è più DLC
-
 ---
 
 ## Prova Cruciale 🏆
@@ -25,13 +23,9 @@ Scegli **una** delle seguenti opzioni (in collaborazione con il **NARRATORE**):
 
 A **discrezione del Narratore**, la sconfitta può segnarti in uno o più di questi modi:
 
-- **cambiare** un tratto (evolverlo, restringerlo, piegarlo all’esperienza — es. *Fiducioso* → *Cauto con gli Stranieri*);
+- **cambiare** un tratto (evolverlo, piegarlo all’esperienza — es. *Fiducioso* → *Cauto con gli Stranieri*);
 - aggiungere una **SVENTURA** significativa (spesso spendendo almeno 1⚫ estratto, se ne hai);
 - **qualche volta** aggiungere comunque un **nuovo tratto** nato dal fallimento (es. diffidenza, cicatrice, lezione amara).
-
-#todo esempi di fallimento “fecondo” vs solo sventura
-
-#todo migliorare / peggiorare #qualità solo prova cruciale
 
 📌 **NOTA:** Il narratore decide se una prova è davvero cruciale anche in base alla lunghezza della campagna; mirate a un numero approssimativo di prove di questo tipo. Puoi usare ciascuna **Lezione** al più una volta per sessione.
 
@@ -50,9 +44,6 @@ Quando affronti una **Prova Cruciale**, il tuo personaggio ha l’opportunità d
 3. Se hai fallito la **PROVA**, la **Lezione** dovrebbe riflettere il peso di quel fallimento, offrendo un vantaggio ma con un’ombra di sacrificio o complessità.
 
 > **📌 NOTA**: Collabora con il narratore per creare lezioni che arricchiscano la narrazione, facendo attenzione di **evitare effetti che garantiscono un successo**. Una Lezione nata da un fallimento potrebbe avere un costo (es. un ⚫ extra), mentre una da un successo dovrebbe esaltare il tuo eroe. Usa le Lezioni per dare profondità al tuo personaggio, non solo per vincere.
-
-
-#todo mettiamo la cicatrice (lezione quando fallisci) assieme alle lezioni?
 
 ---
 

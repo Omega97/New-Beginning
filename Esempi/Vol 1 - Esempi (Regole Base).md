@@ -4,10 +4,6 @@
 
 ### Tratti
 
-#todo le qualità devono essere un po’ specifiche (non solo Carismatico/Affidabile)
-
-#todo esempio di skill rotta: Carismatico
-
 NO (troppo generico)
 - Carismatico
 - Affabile
@@ -26,7 +22,6 @@ SI’
 - Loquace
 - Spericolato
 
-#todo importante: tratti e lezioni dovrebbero essere carte da gioco? potremmo renderlo più tabletop, con un feel più concreto della abilità e dei token
 
 **ARCHETIPO**: *Il Guerriero Errante*
     Un combattente senza patria, alla ricerca di un nuovo scopo o di redenzione. Porta con sé le cicatrici di battaglie passate.
@@ -215,13 +210,13 @@ Se avessi estratto, ad esempio, ⚪⚪⚫: 1⚫ ≤ Soglia 1 → resti in scena;
 
 ### Uscire di Scena
 
-#todo 
+*(Esempio da scrivere — vedi `TODOs.md`.)*
 
 ---
 
 ### Tornare in Scena
 
-#todo 
+*(Esempio da scrivere — vedi `TODOs.md`.)*
 
 ---
 

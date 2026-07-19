@@ -1,11 +1,6 @@
 
 # Esempi
 
-
-#todo esempio prova cruciale
-
-#todo esempio aggiungere un tratto
-
 ### Esempi di Lezione
 
 La **LEZIONE** è un effetto applicabile in una **PROVA** inerente alla **PROVA CRUCIALE** dalla quale ha avuto origine. Cerca di bilanciare la lezione in modo che non sia applicabile troppo facilmente.

@@ -1,5 +1,6 @@
+# Storia · Vol 1
 
-#todo fabbriche competitors?
+*(Contenuto da sviluppare — vedi `TODOs.md` · Storia, es. fabbriche competitors.)*
 
 ---
 

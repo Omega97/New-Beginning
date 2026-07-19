@@ -1,13 +1,9 @@
 
 # Gestionale
 
-#todo nuova intro ora che Gestionale non è più solo una DLC
-
 > *Per campagne orientate alla crescita, alla gestione di risorse e allo sviluppo nel tempo del proprio personaggio.*
 
-Questo DLC è ideale per storie in cui i personaggi non sono necessariamente un party unito, ma individui con vite, ambizioni e progetti personali. Ti permette di dare concretezza al concetto di **"lasciare un’impronta sul mondo"**.
-
-#todo non è più una DLC
+Questo volume è ideale per storie in cui i personaggi non sono necessariamente un party unito, ma individui con vite, ambizioni e progetti personali. Ti permette di dare concretezza al concetto di **"lasciare un’impronta sul mondo"**.
 
 ---
 
@@ -81,8 +77,6 @@ Usa i time-skip non solo per avanzare il tempo, ma per far emergere drammi perso
 ---
 
 ## Integrazione con altri giochi di ruolo
-
-#todo Abbiamo avuto l'idea che questo volume si presta bene ad altri giochi, tipo D&D
 
 ---
 

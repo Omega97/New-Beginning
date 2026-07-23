@@ -2,71 +2,72 @@
 # Esempi
 
 
-### Tratti
+## Archetipi
 
-NO (troppo generico)
-- Carismatico
-- Affabile
-- Intelligente
-- Affidabile
-- Volontà incrollabile
-
-SI’
-- Cogliere al volo (Intelligente)
-- Carismatico quando mercanteggia
-- Bravo a combattere (ma qualche volta risulti arrogante)
-- Affidabile (se dai la parola, la gente tende a crederti)
-- Ingegnoso (per creare nuovi oggetti)
-- Perspicace
-- Pragmatico
-- Loquace
-- Spericolato
-
-
-**ARCHETIPO**: *Il Guerriero Errante*
+*Il Guerriero Errante*
     Un combattente senza patria, alla ricerca di un nuovo scopo o di redenzione. Porta con sé le cicatrici di battaglie passate.
 
-**ARCHETIPO**: *La Sognatrice Mistica*
+*La Sognatrice Mistica*
     Una figura legata ai sogni, agli spiriti o al mondo dell'incubo. Vede ciò che gli altri non vedono. 
 
-**ARCHETIPO**: *Il Mercante Astuto*
+*Il Mercante Astuto*
     Un commerciante che sa sempre trovare un vantaggio, anche nelle situazioni più disperate. Conosce ogni prezzo e ogni persona. 
 
-**ARCHETIPO**: *Il Guardiano Solitario*
-    Un protettore silenzioso, spesso isolato, che difende un luogo, una persona o un segreto. La sua forza è nella determinazione. 
+_L'informatore Misterioso_ 🎲  
+	Un informatore che si muove tra le ombre dei tavoli da gioco, dove le parole valgono più del denaro e ogni partita è una transazione. Sa leggere le persone come carte. Il rischio è il suo mestiere, e il bluff è la sua arma più affilata.
 
-**QUALITÀ**: *Coraggioso*  
+---
+
+## Qualità
+
+*Coraggioso*  
      Non hai paura di affrontare il pericolo, anche quando tutti gli altri fuggono. Il tuo cuore batte forte, ma non si ferma.  
 
-**QUALITÀ**: *Astuto*  
+*Astuto*  
     Sei abile a trovare soluzioni indirette, a ingannare o a usare l'ambiente a tuo vantaggio. Non sempre vinci con la forza, ma con la mente.  
     *Effetto Narrativo:* In prove di intrigo, furtività o risoluzione di enigmi, la tua intelligenza ti apre strade nascoste. Aggiungi 1⚪ al sacchetto.
 
-**QUALITÀ**: *Empatico*
+*Ingegnoso* 
+	Sai creare nuovi oggetti per risolvere al volo i problemi che ti si pongono davanti.
+
+*Loquace*
+    Le parole sono il tuo strumento preferito. Riesci a tenere un discorso, a intrattenere una folla o a convincere chiunque con la tua parlantina. Insomma, la tua lingua taglia meglio della tua lama.
+
+*Spericolato*
+    Agisci prima di pensare, e spesso le tue azioni sono spettacolari, audaci e... pericolose. Non temi il rischio, lo cerchi. La tua vita è un brivido continuo.
+
+*Empatico*
     Senti profondamente le emozioni degli altri e sai come calmarle, incitarle o manipolarle. Le persone si aprono con te. 
 
-**QUALITÀ**: *Testardo*
+*Testardo*
     Una volta presa una decisione, non ti fermi fino a raggiungere l'obiettivo. Può essere una forza... o una debolezza. (Qualche volta conterà come ⚫)
 
-**QUALITÀ**: *Sfortunato*
-    La sorte non è mai dalla tua parte. Ogni azione sembra portare a un imprevisto. Ma hai imparato a conviverci. (Qualche volta conterà come ⚫)
+*Perspicace*
+    Noti ciò che gli altri trascurano: un dettaglio fuori posto, un'espressione che tradisce un'emozione, una crepa in una facciata perfetta. La tua capacità di osservazione è affilata come una lama.
 
-**ABILITÀ**: *Furtivo*
+*Pragmatico*
+    Non ti perdi in teorie o sogni: guardi la realtà per com'è e trovi soluzioni che funzionano. Se qualcosa non serve, lo lasci perdere. Se funziona, lo usi. La tua praticità è un'àncora in mezzo al caos.
+
+---
+
+## Abilità
+
+*Furtivo*
     Sai muoverti nell'ombra, evitare guardie e rubare senza farti notare. Il tuo corpo è un'arma silenziosa.  
 
-**ABILITÀ**:*Scalatore*
+*Scalatore*
     Sai arrampicarti su qualsiasi superficie, dalle pareti di pietra ai tetti delle case. La gravità è solo un suggerimento.
 
-**ABILITÀ**: *Spadaccino*
-    Hai affinato la tua tecnica con la spada fino a renderla un'estensione del tuo braccio. Sai parare, colpire e sfuggire.
+*Spadaccino*
+    Hai affinato la tua tecnica con la spada fino a renderla un'estensione del tuo braccio, imparando a parare, colpire e sfuggire.
 
-**ABILITÀ**: *Persuasivo*
+*Persuasivo*
     Sai parlare con eloquenza, convincere, ingannare o ispirare. Le parole sono il tuo strumento più potente.
 
-**ABILITÀ**: *Mani Leste*
+*Mani Leste*
     Hai dita veloci e precise, perfette per rubare, scassinare serrature o maneggiare oggetti delicati.
 
-**ABILITÀ**: *Erudito*
+*Erudito*
     Hai studiato antichi testi, mappe e storie. Conosci segreti, linguaggi perduti e leggende.
 
 ---
@@ -164,7 +165,6 @@ SI’
 
 Lyra ha appena superato una prova di "diplomazia" (Difficoltà 2) con 4⚪ e 1⚫. Spende 2⚪ per superare la prova e le avanzano 2⚪. Dice al Narratore: "Voglio che, grazie al mio fascino, il nobile non solo accetti il mio accordo, ma mi riveli anche un segreto sulla sua famiglia." Il Narratore annuisce e racconta: "Mentre firmate il contratto, il nobile ti confida che suo cugino, il comandante della guarnigione, sta tramando contro il re. È un'informazione preziosa, che potresti sfruttare." Lyra ha usato i suoi ⚪ per trasformare una semplice trattativa in un colpo di scena.
 
-
 ---
 
 ### Complicare la Scena
@@ -188,11 +188,11 @@ Sconfiggi la tua nemesi in duello per eliminare questa **SVENTURA**.
 
 ---
 
-### Soglia di Sicurezza – **La Scalata sotto la Pioggia**
+### Soglia Critica e Uscire di Scena – **La Scalata sotto la Pioggia**
 
 > **Narratore**: "Devi scalare il muro di un maniero in una notte di tempesta per entrare inosservato.  
 > **Difficoltà 1** (ti basta 1⚪). **Rischio Alto** → **3⚫** nel sacchetto (pioggia, buio, mura scivolose).  
-> **Soglia di Sicurezza = 1** — se estrai **più di 1** ⚫, scatta un’**Uscita di Scena**.”
+> **Soglia Critica = 1** — se estrai **più di 1** ⚫, scatta un’**Uscita di Scena**.”
 
 1. **Descrivi l’azione**: *“Mi arrampico con cautela, usando le sporgenze bagnate dalla pioggia.”* 
 2. **Costruisci il sacchetto**:  
@@ -200,7 +200,7 @@ Sconfiggi la tua nemesi in duello per eliminare questa **SVENTURA**.
    - 2⚪ (Tratti: *Scalatore* e *Agile*)  
    → **Sacchetto**: ⚪⚪⚫⚫⚫  
 3. **Estrai 3 TOKEN**: ⚪⚫⚫  
-4. **Esito**: 2⚫ > Soglia di Sicurezza 1 → **USCITA DI SCENA** 🚪. Non resti in scena: non si valuta il successo e non spendi ⚪ per “superare” sul piano della presenza.
+4. **Esito**: 2⚫ > Soglia Critica 1 → **USCITA DI SCENA** 🚪. Non resti in scena: non si valuta il successo e non spendi ⚪ per “superare” sul piano della presenza.
 
 > **Narratore**: *“La grondaia si spezza sotto il tuo peso. Cadi nel cortile con un tonfo. Le guardie ti circondano: ‘Prendetelo!’ Ti svegli in una cella… ma la storia continua nella prossima scena.”*
 
@@ -208,15 +208,13 @@ Se avessi estratto, ad esempio, ⚪⚪⚫: 1⚫ ≤ Soglia 1 → resti in scena;
 
 ---
 
-### Uscire di Scena
-
-*(Esempio da scrivere — vedi `TODOs.md`.)*
-
----
-
 ### Tornare in Scena
 
-*(Esempio da scrivere — vedi `TODOs.md`.)*
+> *Kael è caduto da un dirupo durante una fuga e ha subito un'Uscita di Scena. La scena successiva lo vede svenuto sulle rive di un fiume, con i suoi inseguitori che si stanno avvicinando.*
+>
+> **Narratore**: *"Kael, ti svegli con un dolore alla testa e il rumore di voci vicine. Per tornare in scena, devi affrontare una prova: **Difficoltà 2** (impegnativa) per rialzarti e nasconderti prima che ti trovino. **Rischio Alto** (3⚫). Se fallisci, i tuoi inseguitori ti catturano e la situazione si complica ulteriormente."*
+>
+> Kael affronta la prova. Se ha successo, torna in scena e può continuare la fuga, magari con una Sventura come *Caviglia slogata*. Se fallisce, la storia prosegue con la cattura, e il suo rientro avverrà più tardi, in un contesto diverso (es. in una prigione, dove dovrà escogitare un'altra fuga).
 
 ---
 

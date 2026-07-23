@@ -1,6 +1,4 @@
-
 # New Beginning
-
 
 **Un sistema di gioco di ruolo narrativo leggero, elegante e basato sul rischio.**
 
@@ -12,42 +10,37 @@
 
 ## 📚 File del Repository
 
-| File                                                                 | Descrizione                                                                                                                                                                                                            |
-| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Cap 1 - Regole Base.md](Vol%201%20-%20Regole%20Base.md)**         | **Regole fondamentali** del sistema: materiali, creazione del personaggio (Archetipo, Qualità, Abilità), come affrontare le Prove, Successo/Fallimento, spesa dei token, Complicazioni e Sventure. Il cuore del gioco. |
-| **[Cap 2 - Regole Avanzate.md](Vol%202%20-%20Gestionale.md)** | Regole avanzate: **Soglia di Sicurezza** e Uscita di Scena, Status Tematici, consigli per il Narratore e esempi dettagliati.                                                                                            |
-| **[DLC](_elenco-dlc.md)**                                            | Contenuti opzionali: *DLC Evoluzione del Personaggio*, *DLC Gestionale*, *DLC PvP*.                                                                                                                                    |
-| **[Glossario.md](Glossario.md)**                                     | Elenco completo di tutti i termini chiave del sistema con brevi definizioni.                                                                                                                                           |
+### Regole (core)
+
+| File | Descrizione |
+| ---- | ----------- |
+| **[Vol 1 — Regole Base](Regole/Vol%201%20-%20Regole%20Base.md)** | **Regole fondamentali**: materiali, scheda personaggio (Archetipo, Qualità, Abilità), Prove, Difficoltà e Rischio, Successo/Fallimento, spesa dei token, Soglia Critica, Uscita e Tornare in scena. Il cuore del gioco. |
+| **[Vol 2 — Gestionale](Regole/Vol%202%20-%20Gestionale.md)** | **Gestione e tempo**: Slot Asset, Slot Tempo, Time-skip tra sessioni, campagne orientate a progetti personali e all’impronta sul mondo. |
+| **[Vol 3 — Evoluzione del Personaggio](Regole/Vol%203%20-%20Evoluzione%20del%20Personaggio.md)** | **Crescita del personaggio**: Prove Cruciali, Lezioni, aggiungere e migliorare tratti (livello e evoluzione narrativa). |
+
+| [Esempi](Esempi/_esempi.md) | [Elenco DLC](DLC/_elenco-dlc.md) |
+| --------------------------- | -------------------------------- |
 
 ---
 
 ## 🎲 Come Giocare
 
-1. Prepara le schede personaggio
-2. Prendi 6 token bianchi ⚪, 6 neri ⚫, e un sacchetto
+1. Prepara le schede personaggio  
+2. Prendi 6 token bianchi ⚪, 6 neri ⚫, e un sacchetto  
 3. Inizia a raccontare storie piene di rischio e dramma!
 
 ---
 
 ## ✨ Caratteristiche Principali
 
-- **Meccanica centrale elegante**: un solo sacchetto di token
-- **Forte enfasi sulla narrazione** e sulle conseguenze emotive
-- **Modulare**: regole base + DLC per personalizzare l’esperienza
-- **Crescita del personaggio** significativa ma non numerica
-- **Rischio reale**: ogni estrazione è una scelta drammatica
-
----
-
-## Prossimi Passi Suggeriti 🚀
-
-- Completare i TODO presenti nei vari capitoli
-- Creare esempi di schede personaggio pronte all'uso
-- Aggiungere un capitolo dedicato alla creazione del mondo e del Narratore
-- Espandere i DLC (es. magia, orrori cosmici, etc.)
+- **Meccanica centrale elegante**: un solo sacchetto di token  
+- **Forte enfasi sulla narrazione** e sulle conseguenze emotive  
+- **Modulare**: tre volumi core + DLC opzionali  
+- **Crescita del personaggio** significativa ma non numerica (Vol 3)  
+- **Rischio reale**: ogni estrazione è una scelta drammatica  
 
 ---
 
 **Pronto a iniziare un nuovo capitolo della tua storia?**
 
-> _“It's not the end, it's a **New Beginning**.”_ 
+> _“It's not the end, it's a **New Beginning**.”_

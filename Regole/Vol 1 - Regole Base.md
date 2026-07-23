@@ -7,7 +7,6 @@
 
 > Con soli due colori – ⚪ bianchi e ⚫ neri – ogni estrazione decide il destino dei personaggi: crescita, rovina o trasformazione. Non esistono vittorie o sconfitte definitive; c’è soltanto l’esito delle tue azioni, accettato e condiviso da tutti al tavolo. Questo rende le **emozioni e le relazioni** il vero motore della storia.
 
-
 ---
 
 ## Materiali 🎒
@@ -24,7 +23,7 @@
 	  
 	- Le **ABILITÀ**: rappresentano ciò che il personaggio ha *imparato* nel corso della vita (competenze pratiche, tecniche o professionali). All’inizio possono essercene poche o nessuna; arrivano soprattutto con l’esperienza e, se usi il DLC, con le **Prove Cruciali**.
 
-> **📌 NOTA:** Le **Lezioni** (abilità speciali) compaiono solo se usi il *DLC Evoluzione del Personaggio*.
+> **📌 NOTA:** Le Lezioni sono dei tratti con abilità speciali. Vedi vol. 3 - Evoluzione del personaggio.
 
 ---
 
@@ -226,21 +225,26 @@ Un ⚪ speso per migliorare la scena può essere usato per:
 
 > *I ⚫ che hai estratto sono il prezzo del rischio. Non sono una punizione, ma un'opportunità per rendere la storia più viva, più imprevedibile, più umana. Ogni ⚫ che estrai è una scintilla che il Narratore può trasformare in un intoppo, un colpo di scena o una nuova sfida. Accettare le complicazioni significa accettare che la storia non è mai lineare.*
 
-Quando hai **SUCCESSO** o **FALLIMENTO**, **spendi tutti i ⚫ che hai estratto**. Ogni ⚫ rappresenta una **COMPLICAZIONE** che il **NARRATORE** racconta: un evento imprevisto, un intoppo, un dettaglio che rende la situazione più complessa o più pericolosa. Più ⚫ spendi, più la scena si complica.
-
-Un ⚫ speso per complicare la scena può essere usato per:
+Quando hai **SUCCESSO** o **FALLIMENTO**, **devi spendere tutti i ⚫ che hai estratto**. Ogni ⚫ speso per complicare la scena può essere usato per:
 
 - **Creare un ostacolo**: il ponte crolla dietro di te, il nemico chiama rinforzi, il tuo equipaggiamento si inceppa.
+    
 - **Svelare una conseguenza imprevista**: la tua azione ha un effetto collaterale che non avevi previsto (es. il tuo inganno funziona, ma qualcuno ti ha visto).
+    
 - **Mettere in pericolo un alleato**: un compagno viene ferito o messo in difficoltà a causa della tua azione.
+    
 - **Aggiungere una scadenza o una pressione**: il tempo stringe, il nemico si sta riorganizzando, la tua copertura sta per saltare.
+    
 - **Rivelare un dettaglio scomodo**: scopri che la situazione è più complicata di quanto pensassi (es. il nobile che stai aiutando ha un debito con il tuo nemico).
 
 **Come funziona:**
 
 1. Ogni ⚫ che hai estratto deve essere speso in una complicazione. Puoi scegliere come distribuirli (es. 1 complicazione da 2⚫, o 2 complicazioni da 1⚫ ciascuna).
+    
 2. Se hai avuto **SUCCESSO**, le complicazioni non annullano il successo: l'azione riesce, ma con un prezzo. Se hai avuto **FALLIMENTO**, le complicazioni si aggiungono al fallimento, rendendo la situazione ancora più critica.
+    
 3. Il **NARRATORE** può proporre una complicazione, ma il **GIOCATORE** è invitato a collaborare: "Cosa potrebbe andare storto in modo interessante?".
+    
 4. La complicazione è **immediata** e ha effetto sulla scena corrente. Se la complicazione è particolarmente grave, può trasformarsi in una **SVENTURA** (vedi sezione Sventure) a lungo termine.
 
 
@@ -289,7 +293,34 @@ Il NARRATORE dovrebbe abbassare la Soglia Critica con parsimonia, riservando le 
 
 ---
 
-### Tornare in scena
+### Tornare in scena 🔙
+
+
+> *Il tuo eroe è fuori gioco, ma la storia continua. Il momento del rientro non è una regola, ma una scelta narrativa. Sta al **NARRATORE** decidere quando e come il personaggio riappare, basandosi sul ritmo della storia e sulla tensione del momento. L'unico principio guida è che **rientrare in scena dovrebbe avere un costo**, per mantenere il peso delle scelte fatte.
+
+Di solito, il rientro richiede una **PROVA** che rappresenti il recupero, la fuga o il risveglio del personaggio. La **Difficoltà** e il **Rischio** dipendono dalla gravità dell'uscita: una caduta richiederà una prova di forza o agilità, uno svenimento una prova di volontà, una cattura una prova di furtività o astuzia. Il costo può essere anche narrativo: il personaggio può subire una **Sventura** legata all'uscita (una ferita, un orgoglio ferito), perdere un oggetto prezioso, o accettare una complicazione che si riverbera sulla scena.
+
+Tornare in scena è un'opportunità drammatica per aggiungere colore alla storia. Il giocatore è invitato a collaborare con il Narratore, proponendo idee su come il suo eroe si rialza e cosa ha imparato dalla sconfitta. Forse si risveglia in una cella e deve scappare, o forse il momento di debolezza lo ha reso più determinato. L'importante è che il rientro sia **significativo, non frustrante**: un'uscita di scena ben gestita può trasformare un momento di debolezza in un momento eroico, e il ritorno è il primo passo di quella trasformazione.
+
+---
+
+### Modificatori delle Prove - gli Status Tematici ⚗️
+
+> _Per modulare la difficoltà delle prove, e aggiungere un ulteriore livello di personalizzazione e contesto alle prove, il narratore può applicare uno status tematico al personaggio prima che vengano estratti i token._
+
+Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di applicare uno **STATUS** al tuo personaggio. Puoi fare suggerimenti, ma sarà il **NARRATORE** a decidere se e cosa applicare. 
+
+Il **NARRATORE** si può sbizzarrire con gli status, ma ecco alcuni esempi:
+
+| Status               | Effetto                                                                                                  | Flavour                                                                                                       |
+| -------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **OTTIMISMO** 😃     | Se scegli di estrarre un solo **TOKEN** e hai estratto un ⚫, rimettilo nel sacchetto ed estrai di nuovo. | *La prova è poco rischiosa, e sei molto **sicuro di te**.*                                                    |
+| **PAURA** 😨         | Non scegli quanti **TOKEN** estrarre. Estrai un **TOKEN** alla volta finchè non peschi un ⚫.             | *Sei **spaventato**! Estrai i token con estrema cautela.*<br>                                                 |
+| **CONFUSIONE** 😵‍💫 | **ESTRAI** tutti i **TOKEN** tranne uno.                                                                 | *Sei **confuso**! Le tue decisioni sono offuscate.* *In un momento concitato, non hai il tempo di pensare...* |
+| **DISTRAZIONE** 👀   | Aggiungi 2⚫ al sacchetto, ma brucia 1⚫ che hai pescato                                                   | _Hai la **testa tra le nuvole**... Alcuni inconvenienti sfuggono al tuo controllo._                           |
+| **FATICA** 😮‍💨     | In questa prova puoi usare al più 2 **TRATTI** .                                                         | _Qualcosa ti sta **provando** fisicamente, rendendo difficile sfruttare tutte le tue capacità._               |
+
+Nota: l'Ottimismo serve ad aggiustare il livello di difficoltà di prove poco rischiose, per esempio quando nel sacchetto hai 1⚫ e 2⚪.
 
 ---
 
@@ -308,12 +339,6 @@ Il Narratore ha la sua parte, i giocatori la loro. Ma la storia? La storia nasce
 Ora prendete i vostri personaggi, il sacchetto, il coraggio, e iniziate. La vostra storia non aspetta altro!
 
 > _“Non è la fine. È solo un nuovo inizio.”_
-
----
-
-*Vedi:* 
-- [[Vol 1 - Esempi (Regole Base)]]
-- [[Vol 2 - Gestionale]]
 
 ---
 

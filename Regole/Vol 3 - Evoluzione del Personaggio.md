@@ -1,7 +1,9 @@
 
 # Evoluzione del Personaggio
 
-> Per campagne lunghe, in cui vuoi dare un senso di progresso agli eroi.
+> _Hai superato le prime prove. Il tuo personaggio ha un volto, una storia, un carattere. Ma la vera domanda è: che tipo di persona diventerà? In **New Beginning**, l'evoluzione non è una tabella di numeri che salgono. È il **riflesso delle tue scelte**, delle cicatrici che hai collezionato, delle lezioni che hai imparato sulla tua pelle._
+
+Questo volume è dedicato alla **crescita autentica** del tuo eroe. Non una crescita astratta, ma un cambiamento che si sente, che si vede, che si racconta. Ogni **Prova Cruciale** che affronti lascia un segno: un tratto che si affina, una nuova abilità che scopri, una **Lezione** che porti con te come un frammento di saggezza conquistata.
 
 ---
 

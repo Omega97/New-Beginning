@@ -41,9 +41,9 @@ I Punti Vita non si rigenerano facilmente. Rappresentano quanto il personaggio �
 
 Il combattimento usa le **regole base delle Prove**, con alcune aggiunte per rendere gli scontri diretti più intensi.
 
-1. **Dichiarazione dell’Attacco** — L’attaccante descrive la propria azione (colpo, incantesimo, manovra psicologica, ecc.). Il **Narratore** fissa **Difficoltà** (⚪ minimi, di solito 1–2), **Rischio** (⚫ di base; spesso Alto o Estremo in scontro) e, se serve, la **Soglia di Sicurezza**. L’attaccante aggiunge i propri **tratti favorevoli** (+1⚪ ciascuno). Il difensore può aggiungere tratti per **difendersi** (+1⚪ al proprio sacchetto in una prova propria, o +1⚫ al sacchetto dell’attaccante, a sua scelta).
+1. **Dichiarazione dell’Attacco** — L’attaccante descrive la propria azione (colpo, incantesimo, manovra psicologica, ecc.). Il **Narratore** fissa **Difficoltà** (⚪ minimi, di solito 1–2), **Rischio** (⚫ di base; spesso Alto o Estremo in scontro) e, se serve, la **Soglia Critica**. L’attaccante aggiunge i propri **tratti favorevoli** (+1⚪ ciascuno). Il difensore può aggiungere tratti per **difendersi** (+1⚪ al proprio sacchetto in una prova propria, o +1⚫ al sacchetto dell’attaccante, a sua scelta).
     
-2. **Estrazione e Danno**: L’attaccante estrae il numero di token che desidera (dopo il controllo sulla **Soglia di Sicurezza**, se rilevante).
+2. **Estrazione e Danno**: L’attaccante estrae il numero di token che desidera (dopo il controllo sulla **Soglia Critica**, se rilevante).
     
 	- Se **non supera la prova** → l’attacco fallisce (possibili complicazioni).  
 	- Se **supera la prova** → l’attacco va a segno. **Il danno inflitto** è pari al **numero totale di ⚪ estratti**.
@@ -81,7 +81,7 @@ Quando entrambi i giocatori stanno agendo l’uno contro l’altro, e **hanno en
 
 ### Esempio di Prova di Gruppo
 
-> **Narratore**: *"I **tre eroi** vogliono sfondare una porta mentre i **mercenari** li stanno cercando. Difficoltà 1 (Facile). Rischio Medio (2⚫). Soglia di Sicurezza 6."*
+> **Narratore**: *"I **tre eroi** vogliono sfondare una porta mentre i **mercenari** li stanno cercando. Difficoltà 1 (Facile). Rischio Medio (2⚫). Soglia Critica 6."*
 
 1. **Descrivi la scena**.
 2. **Riempi il sacchetto**:

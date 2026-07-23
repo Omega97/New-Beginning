@@ -3,7 +3,7 @@
 
 > *Per campagne orientate alla crescita, alla gestione di risorse e allo sviluppo nel tempo del proprio personaggio.*
 
-Questo volume è ideale per storie in cui i personaggi non sono necessariamente un party unito, ma individui con vite, ambizioni e progetti personali. Ti permette di dare concretezza al concetto di **"lasciare un’impronta sul mondo"**.
+Questo volume è ideale se vuoi una campagna **gestionale**, con tanta narrazione. Ti permette di dare concretezza al concetto di **"lasciare un’impronta sul mondo"**. Vedremo come gestire le attività che i personaggi vorrebbero svolgere, e i possedimenti che vorrebbero accumulare. Troverai anche dei consigli su come impiegare il tempo *in-game* trascorso tra le sessioni della tua campagna.
 
 ---
 
@@ -39,20 +39,13 @@ Hai a disposizione **3 Slot Tempo**. Questi rappresentano le aree principali su 
 - La cura di un luogo (casa, tempio, fattoria)
 - L’appartenenza a un circolo, gilda o comunità
 
-**Importante:**
-- Le attività minori o puramente decorative **non** richiedono uno Slot Tempo.
-- Puoi avere più attività nello stesso ambito, ma solo le più rilevanti occupano uno slot.
-- Se dedichi tempo a troppe cose minori, il Narratore può richiedere di consolidare o scegliere cosa è davvero prioritario.
-
-**Benefici:**
-- Uno Slot Tempo ben curato può generare opportunità narrative, piccoli guadagni o nuovi contatti.
-- Trascurare uno Slot Tempo può portare a complicazioni o Sventure (es. “Relazione Incrinata”, “Affari in Declino”).
+**Importante:** Le attività minori o puramente decorative **non** richiedono uno Slot Tempo. Puoi avere più attività nello stesso ambito, ma solo le più rilevanti occupano uno slot. Se dedichi tempo a troppe cose minori, il Narratore può richiedere di consolidare o scegliere cosa è davvero prioritario.
 
 ---
 
 ## Time-skip tra Sessioni 🌅
 
-Una delle meccaniche più potenti di questo DLC. Tra una sessione e l’altra, il Narratore può dichiarare un **Time-skip** (da poche settimane a diversi mesi) per permettere ai personaggi di far crescere i propri progetti.
+Una delle meccaniche più potenti di questo volume. Tra una sessione e l’altra, il Narratore può dichiarare un **Time-skip** (da poche settimane a diversi mesi) per permettere ai personaggi di far crescere i propri progetti.
 
 **Durante il Time-skip:**
 
@@ -68,15 +61,25 @@ Usa i time-skip non solo per avanzare il tempo, ma per far emergere drammi perso
 
 ---
 
-## Consigli per l’Uso del DLC Gestionale
+## Obiettivi Personali e Obiettivo del Mondo
 
-- **Bilanciamento**: Gli Slot Asset e Tempo devono arricchire la narrazione, non sostituirla. Il rischio e la narrazione condivisa restano al centro.
-- **Crescita Organica**: Uno Slot Tempo gestito con costanza può, nel corso di diverse sessioni, trasformarsi in un nuovo Tratto permanente (a discrezione del Narratore).
-- **Flessibilità**: In campagne più classiche (con party fisso) puoi ridurre gli Slot Tempo a 2 o usarli solo per progetti collettivi.
+Cosa muove i personaggi? Qual è lo scopo del gioco? Sono domande che il Narratore deve porsi prima di iniziare una campagna, perché le risposte definiscono il tono, il ritmo e il significato di tutto ciò che accade al tavolo. In *New Beginning*, i personaggi non sono pedine su una scacchiera: sono persone con sogni, ambizioni, paure e desideri. Ed è proprio questo a rendere la storia avvincente.
+
+Come Narratore, sta a te decidere l'orizzonte della campagna, ma devi farlo ascoltando i tuoi giocatori. Cosa li entusiasma? Alcuni vogliono vedere il proprio personaggio crescere in potere, altri sognano ricchezze, altri ancora cercano risposte a domande profonde. Per questo è utile distinguere tra obiettivo personale e obiettivo del mondo. L'obiettivo personale è ciò che il singolo personaggio desidera: diventare campione di tiro con l'arco, collezionare spade leggendarie, acquistare una villa, ritrovare un fratello scomparso. È una meta intima che dà senso alle sue azioni.
+
+L'obiettivo del mondo, invece, è la ragione per cui i personaggi esistono insieme: diventare la famiglia più influente dell'arcipelago, fondare una gilda, proteggere un villaggio. Dà alla campagna una direzione condivisa. I due livelli si intrecciano continuamente: un personaggio che vuole una villa dovrà guadagnare denaro, e forse il modo più rapido è aiutare la gilda a espandersi.
+
+Il Narratore dovrebbe considerare che gli obiettivi possono evolvere. Lasciare che cambino è un segno di crescita, e *New Beginning* celebra la trasformazione. Gli obiettivi non sono una gabbia, ma una mappa: danno ai giocatori una direzione senza togliere loro la libertà di esplorare, e al Narratore gli strumenti per tessere una storia personale, coinvolgente e piena di significato.
 
 ---
 
-## Integrazione con altri giochi di ruolo
+## Consigli per l’Uso 
+
+- **Bilanciamento**: Gli Slot Asset e Tempo devono arricchire la narrazione, non sostituirla. Il rischio e la narrazione condivisa restano al centro.
+    
+- **Crescita Organica**: Uno Slot Tempo gestito con costanza può, nel corso di diverse sessioni, trasformarsi in un nuovo Tratto permanente (a discrezione del Narratore).
+    
+- **Flessibilità**: In campagne più classiche (con party fisso) puoi ridurre gli Slot Tempo a 2 o usarli solo per progetti collettivi.
 
 ---
 

@@ -23,9 +23,8 @@ Nota: Il manuale si chiama **New Beginning**. **Shimanami** è un manuale separa
 
 ### Vol 4 · Consigli per il Narratore
 
-- [ ] Rifinitura bozza (titolo “Vol 4”, intro se serve, piccoli polish stile) — **Vol 4**
+- [x] Rifinitura bozza (titolo “Vol 4”, intro se serve, piccoli polish stile) — **Vol 4**
 - [ ] Il Narratore fa “fare il loro lavoro” ai giocatori e li spinge fuori dalla comfort zone — **Vol 4** · *da collocare* (Narrativa Condivisa / nuovo paragrafo)
-- [ ] Eventuale richiamo crociato da **Vol 1** · I Tratti verso **Vol 4** (tratti generici / premiare i situazionali)
 
 ---
 

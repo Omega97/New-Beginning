@@ -1,3 +1,7 @@
+---
+tags: [DLC]
+date: 2026-08-06
+---
 
 # Sistema di Eventi
 
@@ -149,5 +153,3 @@ Il **Sistema di Eventi** è particolarmente utile in campagne gestionali (Vol 2)
 - **Usa gli Eventi come gancio per trame future**: Un Evento risolto può aprirne altri, creando una rete di storie interconnesse.
 
 ---
-
-#DLC 

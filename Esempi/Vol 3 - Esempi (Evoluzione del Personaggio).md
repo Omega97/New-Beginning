@@ -1,3 +1,8 @@
+---
+tags: [esempi]
+date: 2026-08-06
+---
+
 # Esempi
 
 > Esempi allineati a **Regole · Vol 3 — Evoluzione del Personaggio**. Stesso ordine dei capitoli del volume.
@@ -187,5 +192,3 @@ Trasforma o specializzi il tratto — **non necessariamente più forte**, più *
 > **Esempio breve**: dopo il fallimento al molo, *Fiducioso* non scompare: si **piega**. Stesso “slot” di tratto, nuovo nome, nuovo sapore; +1⚪ solo dove la cautela conta, e a volte ⚫ dove servirebbe ancora fiducia cieca.
 
 ---
-
-#other

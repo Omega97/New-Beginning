@@ -1,4 +1,8 @@
-	
+---
+tags: [core, regole]
+date: 2026-08-06
+---
+
 # New Beginning
 
 > _New_ _Beginning_ è un semplice **sistema di gioco**, leggero ed elegante, pensato per giochi di ruolo narrativi; niente tabelle, niente calcoli, solo la tua storia e il coraggio di rischiare – letteralmente. Ispirato a _Not_ _the_ _End_, il sistema ruota attorno a un unico dilemma:
@@ -341,5 +345,3 @@ Ora prendete i vostri personaggi, il sacchetto, il coraggio, e iniziate. La vost
 > _“Non è la fine. È solo un nuovo inizio.”_
 
 ---
-
-#core

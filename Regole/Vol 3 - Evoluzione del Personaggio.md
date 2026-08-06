@@ -1,3 +1,7 @@
+---
+tags: [core, regole]
+date: 2026-08-06
+---
 
 # Evoluzione del Personaggio
 
@@ -103,5 +107,3 @@ Trasforma o specializzi il tratto in qualcosa di più profondo e personale — n
 - *Fiducioso* → *Cauto con gli Stranieri* (dopo un tradimento)
 
 ---
-
-#core

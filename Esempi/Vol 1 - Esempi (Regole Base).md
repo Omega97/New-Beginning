@@ -1,3 +1,7 @@
+---
+tags: [esempi]
+date: 2026-08-06
+---
 
 # Esempi
 
@@ -216,6 +220,3 @@ Se avessi estratto, ad esempio, ⚪⚪⚫: 1⚫ ≤ Soglia 1 → resti in scena;
 >
 > Kael affronta la prova. Se ha successo, torna in scena e può continuare la fuga, magari con una Sventura come *Caviglia slogata*. Se fallisce, la storia prosegue con la cattura, e il suo rientro avverrà più tardi, in un contesto diverso (es. in una prigione, dove dovrà escogitare un'altra fuga).
 
----
-
-#other

@@ -1,4 +1,7 @@
-
+---
+tags: [regole]
+date: 2026-08-06
+---
 
 ## Consigli per il Narratore
 

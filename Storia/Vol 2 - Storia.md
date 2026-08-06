@@ -1,4 +1,4 @@
-
 ---
-
-#story
+tags: [storia]
+date: 2026-08-06
+---

@@ -1,3 +1,8 @@
+---
+tags: [DLC]
+date: 2026-08-06
+---
+
 # DLC
 
 > Contenuti opzionali per personalizzare l’esperienza di **New Beginning**. Usa solo ciò che serve alla tua campagna.

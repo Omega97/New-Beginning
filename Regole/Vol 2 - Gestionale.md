@@ -1,3 +1,7 @@
+---
+tags: [core, regole]
+date: 2026-08-06
+---
 
 # Gestionale
 
@@ -82,5 +86,3 @@ Il Narratore dovrebbe considerare che gli obiettivi possono evolvere. Lasciare c
 - **Flessibilità**: In campagne più classiche (con party fisso) puoi ridurre gli Slot Tempo a 2 o usarli solo per progetti collettivi.
 
 ---
-
-#core

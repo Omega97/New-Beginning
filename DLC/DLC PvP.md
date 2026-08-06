@@ -1,3 +1,7 @@
+---
+tags: [DLC]
+date: 2026-08-06
+---
 
 # DLC PvP
 
@@ -101,5 +105,3 @@ Quando entrambi i giocatori stanno agendo l’uno contro l’altro, e **hanno en
 > Subite una complicazione: I mercenari sentono il rumore della porta, e corrono verso di voi.”*
 
 ---
-
-#DLC

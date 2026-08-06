@@ -1,3 +1,7 @@
+---
+tags: [esempi]
+date: 2026-08-06
+---
 
 # Esempi
 
@@ -93,5 +97,3 @@ Il **NARRATORE** decide di concentrarsi sul terzo Slot, il più rischioso e prom
 | **Progressione narrativa** | Kaelen ha un nuovo obiettivo: liberarsi del contrabbandiere e consolidare la rotta. |
 
 ---
-
-#other

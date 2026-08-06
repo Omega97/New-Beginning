@@ -1,3 +1,7 @@
+---
+tags: [glossario]
+date: 2026-08-06
+---
 
 # Glossario
 
@@ -38,5 +42,3 @@
 - **Uscita di Scena**: Un evento narrativo drammatico che mette temporaneamente fuori gioco l’eroe quando i **⚫ estratti** superano la **Soglia Critica** (es. cattura, svenimento). L’eroe rientra nella scena successiva, spesso con una **Sventura** o un nuovo spunto narrativo.
 
 ---
-
-#other

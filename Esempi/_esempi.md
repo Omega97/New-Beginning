@@ -1,3 +1,7 @@
+---
+tags: [esempi]
+date: 2026-08-06
+---
 
 ### Esempi
 

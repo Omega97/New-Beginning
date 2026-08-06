@@ -46,6 +46,7 @@ Nota: Il manuale si chiama **New Beginning**. **Shimanami** è un manuale separa
 ### DLC Campagna Asincrona
 
 - [ ] Scrivere il DLC: sessioni **one-on-one**, personaggi non noti agli altri (tipo Shimanami) — **DLC Campagna Asincrona** · **Vol 2** · Time-skip / campagne parallele
+- [ ] Espandere descrizione
 
 ### DLC Sistema di Eventi
 
@@ -144,6 +145,7 @@ Principi (da trasformare in testo nel manuale):
 - Core: **Vol 1** Regole Base · **Vol 2** Gestionale · **Vol 3** Evoluzione · **Vol 4** Consigli per il Narratore
 - DLC attuali: **PvP**, **Campagna Asincrona** (stub), **Sistema di Eventi**
 - **Single source of truth per i todo:** questo file. Non lasciare `#todo` / `#idea` nei manuali (Status Tematici: ok, effetti compilati)
+- **Tag nei manuali:** YAML frontmatter in cima al file (`tags: […]`, `date: YYYY-MM-DD` = ultima modifica). Vocabolario: `core`, `regole`, `esempi`, `DLC`, `glossario`, `storia`. Non usare hashtag in fondo al file.
 - Appunti grezzi: `ai-feed.md` → poi migrare qui
 - Preferire lavorare prima la sezione **Decisioni** (sblocca molte voci in **Descrizioni**)
 - `*da collocare*` = idea senza ancora un capitolo dedicato

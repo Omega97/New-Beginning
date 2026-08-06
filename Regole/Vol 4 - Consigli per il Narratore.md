@@ -4,6 +4,8 @@
 
 > _Il Narratore è il regista della storia, responsabile di bilanciare rischio, dramma e ricompensa per creare un’esperienza coinvolgente._
 
+Conoscere le regole è una cosa; saperle usare con maestria è un'altra. Questo volume è per chi siede dall'altra parte del tavolo e ha il compito di tessere la trama, dare vita al mondo e guidare i giocatori attraverso le loro storie. Imparerai a calibrare Difficoltà, Rischio e Soglia Critica, a gestire i Tratti troppo generici e a usare gli Status per aggiungere colore alle prove. Ma soprattutto, troverai il tuo stile: non esiste un modo giusto di fare il Narratore, esiste solo il modo che funziona per il tuo gruppo. Prendi questi consigli come strumenti, non come dogmi. Sperimenta, sbaglia, impara. E ricorda: il tuo compito non è raccontare una storia perfetta, ma creare le condizioni perché i giocatori raccontino la loro.
+
 ---
 
 ## Bilanciare la Campagna

@@ -17,11 +17,14 @@ date: 2026-08-06
 > **Narratore**: *“D’accordo. Difficoltà 2 (Impegnativa). Rischio Medio (2⚫). Soglia Critica 6.”*
 
 1. **Descrivi**: *“Parlo a cuore aperto: mostro le mappe, cito i morti di inverno, chiedo fiducia.”*
+    
 2. **Sacchetto**:  
    - 2⚫ (Rischio Medio)  
    - 3⚪ (Tratti: *Persuasivo*, *Empatico*, Archetipo *Voce del Quartiere*)  
    → **Sacchetto**: ⚪⚪⚪⚫⚫  
+    
 3. Estrai 3 **TOKEN**: ⚪⚪⚫ → **SUCCESSO PARZIALE** ✅ (2⚪ ≥ Difficoltà 2; c’è 1⚫)
+    
 4. **Spendi i TOKEN**:  
    - 2⚪ → superi la **PROVA**  
    - 1⚫ → **COMPLICAZIONE** (il finanziamento arriva, ma con un ispettore del Consiglio al seguito)

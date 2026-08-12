@@ -34,6 +34,7 @@ Il Rischio (1–6) decide quanti **⚫** entrano di base nel sacchetto: ostilit�
 ### Lezioni
 
 Come narratore, è tuo compito rigettare Lezioni che **garantiscono** il successo. o che sono troppo adusabili. 
+#todo expand
 
 ---
 
@@ -56,16 +57,7 @@ Le Complicazioni dovrebbero spingere la storia avanti (es. un nuovo ostacolo), m
 
 Come giocatore puoi proporre qualsiasi tratto, ma sta al narratore bilanciare la campagna. Certi tratti potrebbero risultare troppo genericamente utili, e tutti vorrebbero usarli, risultando in personaggi che si assomigliano, e con un ⚪ in più in ogni prova. Se proprio vuoi un tratto particolare, puoi chiedere al narratore di bilanciarlo con un *tratto negativo extra* ad esso collegato, che ti darà anche un ⚫ in alcune prove.
 
-
-**Esempi:**
-
-- **Carismatico**/**Affabile**: si applicano praticamente a ogni prova che riguarda convincere una persona. Se proprio vuoi essere carismatico, dai al tratto anche una sfumatura negativa, o aggiungi un tratto che lo bilancia. Per esempio, potresti essere **Affabile** ma **Arrogante**
-    
-- **Intelligente**: troppo genericamente utile. Si applica a contesti sociali, prove di astuzia, e al *problem solving*, solo per elencarne alcuni. Di nuovo, puoi bilanciare il personaggio dandogli un tratto negativo collegato (magari sei **Intelligente** ma **Introverso**).
-    
-- **Affidabile**: è un buon tratto, ma potrebbe essere abusato in situazioni sociali, per convincere le persone. Magari sei affidabile nel senso che cerchi sempre di **Mantenere la Parola**, ma sei **Smemorato**.
-    
-- **Volontà Incrollabile**: di nuovo, si applica praticamente ogni volta che potresti volere affrontare una prova. Per bilanciare questo tratto, potresti essere **Determinato** ma **Indisciplinato**, nel senso che i tuoi obbiettivi spesso si allineano più al *piacere* che al *dovere*.
+*Vedi esempi in [[Vol 4 - Esempi (Consigli)]]*
 
 ---
 

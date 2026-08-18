@@ -7,6 +7,8 @@ date: 2026-08-06
 
 > *Se nella tua avventura prevedi scontri aperti e conflitti diretti.*
 
+#todo Intro - la **competizione è un’opzione**, non il default
+
 ---
 
 ## Dare una Mano - La Prova di Gruppo✋
@@ -106,3 +108,13 @@ Quando entrambi i giocatori stanno agendo l’uno contro l’altro, e **hanno en
 > Subite una complicazione: I mercenari sentono il rumore della porta, e corrono verso di voi.”*
 
 ---
+
+
+#todo Sezione **combattimento** → resta solo in PvP / sale in core (Vol 1) — **DLC PvP** · Combattimento
+#todo Descrizione più dettagliata (intro) — **DLC PvP** · intro
+#todo Combat **estremamente raro** (tono / linee guida) — **DLC PvP** · Combattimento
+#todo **Combat / difesa** — unificare opzioni del difensore (formattazione + chiarezza; ora su un’unica riga) — **DLC PvP** · Difesa e Riduzione del Danno
+#todo **Prova Contrapposta** — come si leggono i due esiti — **DLC PvP** · Prova Contrapposta
+#todo **Rientro in gioco** dei personaggi (dopo 0 PV / uscita) — allineare a **Vol 1** · Tornare in scena — **DLC PvP** · Punti Vita
+#todo Note dipendenza moduli (PvP → Vol 1 Soglia Critica / event. Vol 2 Time-skip per recupero) — **DLC PvP** · **_elenco-dlc.md** 
+#todo Impiego come nuovo tipo di tratto?

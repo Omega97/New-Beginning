@@ -15,16 +15,38 @@
 
 ## 📚 File del Repository
 
-### Regole (core)
 
-| File | Descrizione |
-| ---- | ----------- |
-| **[Vol 1 — Regole Base](P1%20-%20Regole%20Base.md)** | **Regole fondamentali**: materiali, scheda personaggio (Archetipo, Qualità, Abilità), Prove, Difficoltà e Rischio, Successo/Fallimento, spesa dei token, Soglia Critica, Uscita e Tornare in scena. Il cuore del gioco. |
-| **[Vol 2 — Gestionale](P2%20-%20La%20Campagna%20Gestionale.md)** | **Gestione e tempo**: Slot Asset, Slot Tempo, Time-skip tra sessioni, campagne orientate a progetti personali e all’impronta sul mondo. |
-| **[Vol 3 — Evoluzione del Personaggio](P3%20-%20Evoluzione%20del%20Personaggio.md)** | **Crescita del personaggio**: Prove Cruciali, Lezioni, aggiungere e migliorare tratti (livello e evoluzione narrativa). |
+### Vol 1 - Regole Player Core
 
-| [Esempi](Esempi/_esempi.md) | [Elenco DLC](_elenco-dlc.md) |
-| --------------------------- | -------------------------------- |
+- [[P1 - Regole Base]]
+- [[P2 - La Campagna Gestionale]]
+- [[P3 - Evoluzione del Personaggio]]
+- [[P4 - Glossario]]
+
+#### Esempi
+
+- [[eP1 - Regole Base]]
+- [[eP2 - La Campagna Gestionale]]
+- [[eP3 - Evoluzione del Personaggio]]
+
+### Vol 2 - Regole DM Core
+
+- [[D1 - Il Sistema di Eventi]]
+- [[D2 - Il Sistema di Tier]]
+- [[D3 - Consigli per il Narratore]]
+
+#### Esempi
+
+- [[eD1 - Il Sistema di Eventi]]
+- [[eE1 - Idee per la Campagna]]
+
+### Vol 3 - Adventure Path
+
+- [[Shimanami - Un'Avventura nel Giappone Feudale]]
+
+### Vol 4 - DLC
+
+- [[DLC PvP]]
 
 ---
 

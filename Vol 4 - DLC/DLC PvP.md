@@ -67,6 +67,7 @@ Il difensore non è passivo. Può scegliere una delle seguenti opzioni **prima**
 
 ## Conflitto tra Giocatori - La Prova Contrapposta 🏹
 
+#todo Prova Contrapposta: decidere se collocarla dentro Combattimento o in sezione a sé (con esempi e gestione degli esiti).
 
 > A volte due personaggi possono trovarsi in contrasto — per ideali, orgoglio o interessi. 
 

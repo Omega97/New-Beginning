@@ -1,5 +1,8 @@
 # TODOs
 
+#todo riassumere i todos, e sistemare in base alla nuova struttura del manuale
+#todo usare termini corretti per indicare volume, capitolo, sezione, ...
+
 > **Formato riferimenti:** `Vol N · Sezione` (file sotto `Regole/`, `DLC/`, `Esempi/`, ecc.).  
 > Se manca un capitolo dedicato: `da collocare` o file esplicito.
 
@@ -14,16 +17,10 @@ Nota: Il manuale si chiama **New Beginning**. **Shimanami** è un manuale separa
 ### Vol 1 · Regole Base (+ Esempi Vol 1)
 
 - [ ] **Creazione personaggio** — flusso esplicito in Vol 1; il Narratore evita tratti troppo generici o troppo simili (il bilanciamento è già in **Vol 4**) — **Vol 1** · La Scheda Personaggio / I Tratti · **Esempi Vol 1** · Qualità
-- [x] **Riassumere** il paragrafo *Tornare in scena* (testo pieno già scritto: serve versione più snella) — **Vol 1** · Tornare in scena
 - [ ] Materiali · **Abilità**: ancora “se usi il DLC, con le **Prove Cruciali**” → allineare a **Vol 3** — **Vol 1** · Materiali
-
-### Vol 2 · Gestionale (+ Esempi)
-
-- [ ] Esempio **Status Tematici** — **Esempi Vol 1** o **Esempi Vol 2** · *da collocare*
 
 ### Vol 4 · Consigli per il Narratore
 
-- [x] Rifinitura bozza (titolo “Vol 4”, intro se serve, piccoli polish stile) — **Vol 4**
 - [ ] Il Narratore fa “fare il loro lavoro” ai giocatori e li spinge fuori dalla comfort zone — **Vol 4** · *da collocare* (Narrativa Condivisa / nuovo paragrafo)
 
 ---
@@ -43,14 +40,6 @@ Nota: Il manuale si chiama **New Beginning**. **Shimanami** è un manuale separa
 - [ ] Note dipendenza moduli (PvP → Vol 1 Soglia Critica / event. Vol 2 Time-skip per recupero) — **DLC PvP** · **_elenco-dlc.md**
 - [ ] Impiego come nuovo tipo di tratto?
 
-### DLC Campagna Asincrona
-
-- [ ] Scrivere il DLC: sessioni **one-on-one**, personaggi non noti agli altri (tipo Shimanami) — **DLC Campagna Asincrona** · **Vol 2** · Time-skip / campagne parallele
-- [ ] Espandere descrizione
-
-### DLC Sistema di Eventi
-
-- [ ] Rifinire esempi e integrazione con Slot Tempo / Time-skip (regole base già scritte) — **DLC Sistema di Eventi** · **Vol 2**
 
 ---
 
@@ -67,8 +56,6 @@ Principi (da trasformare in testo nel manuale):
 ## Meccaniche / flavor:
 
 - [ ] Scambiare esempi con altri esempi più ispirati, magari collegati alla campagna Shimanami
-- [x] Modello *Seven Seas*: **obiettivi personali + obiettivo del mondo** (es. azienda; ricchezza / influenza) — **Vol 2** · Slot / Consigli · *da collocare*
-- [x] Crisi comune tipo *Stellaris* (es. tsunami) — esempio *Tsunami del ’38* già in **DLC Sistema di Eventi**
 - [ ] Capitolo/flavor su **sfide nascoste, segreti, easter egg** (stile Shimanami) — **Vol 4** / **Storia/** · *da collocare*
 - [ ] **Post-credit** con obiettivi — **Vol 2** · Consigli / **Vol 4** · *da collocare*
 - [ ] Linee guida divario: chi è in cima (sfide maggiori, fallire senza azzerare); chi è indietro (occasioni); criteri **flavor**; divario grande → conseguenze mondo/sabotaggio; divario standard → leak info; tabella vantaggi–svantaggi; ranking dinamico; tutti competitivi — **Vol 2** · Consigli / Time-skip / Slot · **Vol 4** · *da collocare*
@@ -100,7 +87,7 @@ Principi (da trasformare in testo nel manuale):
 ## Maybe Later
 
 - [ ] Supporto esplicito a **campagne in parallelo** (regole + struttura) — **Vol 2** · Time-skip / Consigli · **DLC Campagna Asincrona**
-- [ ] Volume **adattabile ad altri giochi** (es. D&D) come feature ufficiale? → sì (sviluppare sezione) / no (togliere o lasciare cenno) — **Vol 2** · Integrazione con altri giochi di ruolo *(sezione ancora vuota)*
+- [ ] Volume **adattabile ad altri giochi** (es. integrazione con D&D) come feature ufficiale? → sì (sviluppare sezione) / no (togliere o lasciare cenno) — **Vol 2** · Integrazione con altri giochi di ruolo *(sezione ancora vuota)*
 
 ---
 

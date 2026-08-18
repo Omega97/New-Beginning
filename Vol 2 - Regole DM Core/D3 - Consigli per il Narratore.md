@@ -1,6 +1,6 @@
 ---
-tags: [regole]
-date: 2026-08-06
+tags: [core]
+date: 2026-08-18
 ---
 
 ## Consigli per il Narratore
@@ -34,13 +34,8 @@ Il Rischio (1–6) decide quanti **⚫** entrano di base nel sacchetto: ostilit�
 ### Lezioni
 
 Come narratore, è tuo compito rigettare Lezioni che **garantiscono** il successo. o che sono troppo adusabili. 
-#todo expand
 
----
-
-### Status Tematici
-
-Applica Status per riflettere l’ambiente o lo stato mentale dell’eroe, e rendere la scelta del numero di **TOKEN** da **ESTRARRE** più interessante. Usa Status personalizzati per eventi unici (es. “Fatica” in una lunga marcia).
+#todo Lezioni – bilanciamento: guida per il Narratore su come valutare e bilanciare le Lezioni (evitare successo garantito o formulazioni troppo generiche).
 
 ---
 
@@ -57,7 +52,7 @@ Le Complicazioni dovrebbero spingere la storia avanti (es. un nuovo ostacolo), m
 
 Come giocatore puoi proporre qualsiasi tratto, ma sta al narratore bilanciare la campagna. Certi tratti potrebbero risultare troppo genericamente utili, e tutti vorrebbero usarli, risultando in personaggi che si assomigliano, e con un ⚪ in più in ogni prova. Se proprio vuoi un tratto particolare, puoi chiedere al narratore di bilanciarlo con un *tratto negativo extra* ad esso collegato, che ti darà anche un ⚫ in alcune prove.
 
-*Vedi esempi in [[Vol 4 - Esempi (Consigli)]]*
+*Vedi esempi in [[eD2 - Esempi Consigli]]*
 
 ---
 
@@ -67,11 +62,30 @@ Abbiamo parlato di come punire tratti troppo generici. Vale anche il contrario; 
 
 ---
 
-## Altro
 
+## Il Sistema di Evetni
+
+- **Non sovraccaricare**: 2-3 Eventi a giocatore per sessione sono sufficienti per dare ritmo senza appesantire.
+- **Legali agli Slot Tempo**: Ogni Evento dovrebbe toccare un'area della vita del personaggio, rendendo le scelte significative.
+- **Crea varietà**: Alterna Eventi positivi (opportunità, scoperte) e negativi (imprevisti, intrighi) per mantenere la tensione.
+- **Lascia spazio alla scelta**: I giocatori dovrebbero poter decidere se affrontare un Evento, ignorarlo, o rimandarlo a più tardi.
+- **Usa gli Eventi come gancio per trame future**: Un Evento risolto può aprirne altri, creando una rete di storie interconnesse.
+
+---
+
+## Altro
 
 ### Narrativa Condivisa
 
 Incoraggia i giocatori a suggerire dettagli per Complicazioni o Miglioramenti della Scena, ma mantieni l’ultima parola per coerenza.
 
 ---
+
+#todo Scopo del gioco: dichiarare esplicitamente se il gioco è cooperativo, competitivo o ibrido (allineare anche Vol 2 intro e README). (è ibrido, decidono i giocatori)
+
+#todo Creazione personaggio: manca un flusso esplicito (quanti tratti all’inizio, come bilanciarli, come scriverli in modo efficace); guida passo-passo per giocatori e Narratore.
+
+#todo una prova per Tornare in scena?
+
+#todo tornare in scena con un personaggio diverso?
+

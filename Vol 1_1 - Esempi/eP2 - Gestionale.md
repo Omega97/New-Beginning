@@ -2,6 +2,7 @@
 tags: [esempi]
 date: 2026-08-06
 ---
+#todo cambiare esempi in base alle nuove regole
 
 # Esempi
 

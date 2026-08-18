@@ -5,6 +5,9 @@ date: 2026-08-06
 
 # Esempi
 
+*In questo capitolo troverai una lista di esempi di archetipi, qualità, e abilità, che ti daranno uno spunto per il tuo personaggio.*
+
+---
 
 ## Archetipi
 
@@ -76,7 +79,7 @@ _L'informatore Misterioso_ 🎲
 
 ---
 
-### Successo e Fallimento
+## Successo e Fallimento
 
 | TOKEN nel sacchetto | TOKEN ESTRATTI | Lettura                          | Esito                      |
 | ------------------- | -------------- | -------------------------------- | -------------------------- |
@@ -87,7 +90,7 @@ _L'informatore Misterioso_ 🎲
 
 ---
 
-#### Successo Totale – **Il Furto Perfetto**
+### Successo Totale – **Il Furto Perfetto**
 
 > Narratore: *“Vuoi rubare un anello prezioso dal tavolo di un mercante distratto. Difficoltà 1 (Facile). Rischio Medio (2⚫ nel sacchetto).”*
 
@@ -105,7 +108,7 @@ _L'informatore Misterioso_ 🎲
 
 ---
 
-#### Successo Parziale – **La Scalata sotto la Pioggia**
+### Successo Parziale – **La Scalata sotto la Pioggia**
 
 > **Narratore**: *"Scali il muro di un maniero in una notte di tempesta. Difficoltà 1 (Facile). Rischio Alto (3⚫ nel sacchetto).”*
 
@@ -124,7 +127,7 @@ _L'informatore Misterioso_ 🎲
 
 ---
 
-#### Fallimento Parziale – **Il Duello d’Onore**
+### Fallimento Parziale – **Il Duello d’Onore**
 
 > **Narratore**: *"Sfidi a duello un nobile arrogante. Difficoltà **2** (Impegnativa — devi davvero impressionare). Rischio Alto (3⚫).”*
 
@@ -147,7 +150,7 @@ _L'informatore Misterioso_ 🎲
 
 ---
 
-#### Fallimento Totale – **La Fuga Disperata**
+### Fallimento Totale – **La Fuga Disperata**
 
 > **Narratore**: *"Fuggi dalla prigione con le guardie alle calcagna. Difficoltà 1 (Facile). Rischio Estremo (5⚫ nel sacchetto).”*
 

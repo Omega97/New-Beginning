@@ -2,12 +2,40 @@
 tags: [core, regole]
 date: 2026-08-06
 ---
+#todo sistema di Nic con i tier [[D2 - Il Sistema di Tier]]
 
-# Gestionale
+# La Campagna Gestionale
 
-> *Per campagne orientate alla crescita, alla gestione di risorse e allo sviluppo nel tempo del proprio personaggio.*
+> *Per campagne orientate alla crescita del business e alla gestione di risorse.*
 
-Questo volume è ideale se vuoi una campagna **gestionale**, con tanta narrazione. Ti permette di dare concretezza al concetto di **"lasciare un’impronta sul mondo"**. Vedremo come gestire le attività che i personaggi vorrebbero svolgere, e i possedimenti che vorrebbero accumulare. Troverai anche dei consigli su come impiegare il tempo *in-game* trascorso tra le sessioni della tua campagna.
+Questo capitolo spiega come funziona una campagna **gestionale asincrona**, ovvero dove le sessioni con il Narratore si svolgono con un giocatore alla volta, invece che con tutti. La peculiarità di questo sistema è che **nessun giocatore sa l'identità degli altri**, però, tramite le loro azioni, si influenzano comunque a vicenda.
+
+Questo sistema di gioco ricco di narrazione ti permette di dare concretezza al concetto di **"lasciare un’impronta sul mondo"**. Vedremo come gestire le attività che i personaggi vorrebbero svolgere, e i possedimenti che vorrebbero accumulare. Troverai anche dei consigli su come impiegare il tempo *in-game* trascorso tra le sessioni della tua campagna.
+
+---
+
+## Cosa vuol dire "Campagna Asincrona"?
+
+#todo spiegazione sessioni one-on-one & time-skip
+
+
+---
+
+## Time-skip tra Sessioni 🌅
+
+Una delle meccaniche più influenti di questo volume. Tra una sessione e l’altra, il Narratore può dichiarare un **Time-skip** (da poche settimane a diversi mesi) per permettere ai personaggi di far crescere i propri progetti.
+
+**Durante il Time-skip:**
+
+1. Ogni giocatore descrive brevemente come sta usando i propri **Slot Asset** e **Slot Tempo**.
+2. Il Narratore può porre **sfide o decisioni chiave** sotto forma di **flashback** o **prove condensate**.
+3. Per ogni Slot gestito con successo, il giocatore può proporre un beneficio (nuovo contatto, miglioramento dell’Asset, guadagno narrativo, tratto aggiuntivo o migliorato, ecc.).
+4. Fallimenti o trascuratezze possono generare **Sventure** o complicazioni che si manifestano nella sessione successiva.
+
+**Questo sistema è particolarmente indicato per campagne “asincrone”**, in cui i giocatori non viaggiano sempre insieme ma vivono le proprie vite parallele, incontrandosi occasionalmente per eventi comuni.
+
+**Suggerimento per il Narratore:**  
+Usa i time-skip non solo per avanzare il tempo, ma per far emergere drammi personali e far evolvere il mondo indipendentemente dalle azioni dirette dei giocatori.
 
 ---
 
@@ -19,7 +47,7 @@ Per ogni **Tratto** significativo del tuo personaggio (Archetipo, Qualità o Abi
 - Una casa o bottega in città
 - Un terreno coltivato o un vigneto
 - Una barca da pesca o un carro da mercanti
-- Un contatto influente (non frequentato quotidianamente)
+- Un contatto influente (non frequentato quotidianamente) #todo che sfrutti
 - Una biblioteca privata o un laboratorio artigianale
 - Un favore presso una gilda o una famiglia nobile
 
@@ -47,24 +75,6 @@ Hai a disposizione **3 Slot Tempo**. Questi rappresentano le aree principali su 
 
 ---
 
-## Time-skip tra Sessioni 🌅
-
-Una delle meccaniche più potenti di questo volume. Tra una sessione e l’altra, il Narratore può dichiarare un **Time-skip** (da poche settimane a diversi mesi) per permettere ai personaggi di far crescere i propri progetti.
-
-**Durante il Time-skip:**
-
-1. Ogni giocatore descrive brevemente come sta usando i propri **Slot Asset** e **Slot Tempo**.
-2. Il Narratore può porre **sfide o decisioni chiave** sotto forma di **flashback** o **prove condensate**.
-3. Per ogni Slot gestito con successo, il giocatore può proporre un beneficio (nuovo contatto, miglioramento dell’Asset, guadagno narrativo, ecc.).
-4. Fallimenti o trascuratezze possono generare **Sventure** o complicazioni che si manifestano nella sessione successiva.
-
-**Questo sistema è particolarmente indicato per campagne “asincrone”**, in cui i giocatori non viaggiano sempre insieme ma vivono le proprie vite parallele, incontrandosi occasionalmente per eventi comuni.
-
-**Suggerimento per il Narratore:**  
-Usa i time-skip non solo per avanzare il tempo, ma per far emergere drammi personali e far evolvere il mondo indipendentemente dalle azioni dirette dei giocatori.
-
----
-
 ## Obiettivi Personali e Obiettivo del Mondo
 
 Cosa muove i personaggi? Qual è lo scopo del gioco? Sono domande che il Narratore deve porsi prima di iniziare una campagna, perché le risposte definiscono il tono, il ritmo e il significato di tutto ciò che accade al tavolo. In *New Beginning*, i personaggi non sono pedine su una scacchiera: sono persone con sogni, ambizioni, paure e desideri. Ed è proprio questo a rendere la storia avvincente.
@@ -74,15 +84,5 @@ Come Narratore, sta a te decidere l'orizzonte della campagna, ma devi farlo asco
 L'obiettivo del mondo, invece, è la ragione per cui i personaggi esistono insieme: diventare la famiglia più influente dell'arcipelago, fondare una gilda, proteggere un villaggio. Dà alla campagna una direzione condivisa. I due livelli si intrecciano continuamente: un personaggio che vuole una villa dovrà guadagnare denaro, e forse il modo più rapido è aiutare la gilda a espandersi.
 
 Il Narratore dovrebbe considerare che gli obiettivi possono evolvere. Lasciare che cambino è un segno di crescita, e *New Beginning* celebra la trasformazione. Gli obiettivi non sono una gabbia, ma una mappa: danno ai giocatori una direzione senza togliere loro la libertà di esplorare, e al Narratore gli strumenti per tessere una storia personale, coinvolgente e piena di significato.
-
----
-
-## Consigli per l’Uso 
-
-- **Bilanciamento**: Gli Slot Asset e Tempo devono arricchire la narrazione, non sostituirla. Il rischio e la narrazione condivisa restano al centro.
-    
-- **Crescita Organica**: Uno Slot Tempo gestito con costanza può, nel corso di diverse sessioni, trasformarsi in un nuovo Tratto permanente (a discrezione del Narratore).
-    
-- **Flessibilità**: In campagne più classiche (con party fisso) puoi ridurre gli Slot Tempo a 2 o usarli solo per progetti collettivi.
 
 ---

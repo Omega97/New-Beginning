@@ -5,7 +5,7 @@ date: 2026-08-06
 
 # New Beginning
 
-> _New_ _Beginning_ è un semplice **sistema di gioco**, leggero ed elegante, pensato per giochi di ruolo narrativi; niente tabelle, niente calcoli, solo la tua storia e il coraggio di rischiare – letteralmente. Ispirato a _Not_ _the_ _End_, il sistema ruota attorno a un unico dilemma:
+> _New_ _Beginning_ è un semplice **sistema di gioco**, leggero ed elegante, pensato per giochi di ruolo narrativi gestionali; niente tabelle, niente calcoli, solo la tua storia e il coraggio di rischiare – letteralmente. Ispirato a _Not_ _the_ _End_, il sistema ruota attorno a un unico dilemma:
 
 **_Quanti token osi estrarre dal sacchetto?_**
 
@@ -25,7 +25,7 @@ date: 2026-08-06
 	  
 	- Le **QUALITÀ**: descrivono le caratteristiche personali, emotive o morali del personaggio — di solito sono i tratti di partenza. Comincia con 3-5 **qualità**, a seconda di quanto principiante o esperto è il tuo personaggio.
 	  
-	- Le **ABILITÀ**: rappresentano ciò che il personaggio ha *imparato* nel corso della vita (competenze pratiche, tecniche o professionali). All’inizio possono essercene poche o nessuna; arrivano soprattutto con l’esperienza e, se usi il DLC, con le **Prove Cruciali**.
+	- Le **ABILITÀ**: rappresentano ciò che il personaggio ha *imparato* nel corso della vita (competenze pratiche, tecniche o professionali). All’inizio possono essercene poche o nessuna; arrivano soprattutto con l’esperienza e, se usi il le **Prove Cruciali** (vedi [[P3 - Evoluzione del Personaggio]]).
 
 > **📌 NOTA:** Le Lezioni sono dei tratti con abilità speciali. Vedi vol. 3 - Evoluzione del personaggio.
 
@@ -36,9 +36,7 @@ date: 2026-08-06
 
 > La scheda personaggio è composta da una breve **descrizione del personaggio**, e da una lista di **tratti**, che daranno personalità, abilità, e carattere al tuo personaggio.
 
-### I Tratti 💪
-
-Userai i tratti del tuo personaggio per superare le prove. Assicurati di descrivere in dettaglio in quali contesti questi entrano in gioco, perché ciascun tratto _favorevole_ aggiungerà 1⚪️ nel sacchetto, che ti darà una migliore probabilità di superare la prova!
+Userai i **TRATTI** del tuo personaggio per superare le prove. Assicurati di descrivere in dettaglio in quali contesti questi entrano in gioco, perché ciascun tratto _favorevole_ aggiungerà 1⚪️ nel sacchetto, che ti darà una migliore probabilità di superare la prova!
 
 I tratti si dividono in tre tipi:
 
@@ -125,7 +123,7 @@ Estrarre è un azzardo: devi raggiungere la **Difficoltà** in ⚪, ma ogni ⚫ 
 
 > _Ogni azione audace porta con sé un’ombra di rischio. Quando il narratore fissa una Soglia Critica bassa, il destino del tuo eroe è appeso a un filo: troppi ⚫ estratti e scatta un’**uscita di scena** che cambia il corso della storia._
 
-La **Soglia Critica** è il numero **massimo di ⚫** che puoi estrarre **senza** subire un’**Uscita di Scena**. Superare questa soglia significa che il personaggio è fuori gioco, almeno temporaneamente.
+La **Soglia Critica** è il numero **massimo di ⚫** che puoi estrarre **senza** subire un’**Uscita di Scena**. Una soglia critica bassa rappresenta un **alto livello di pericolo**. Superare questa soglia significa che il personaggio è fuori gioco, almeno temporaneamente.
 
 
 **Come funziona la Soglia Critica?**
@@ -152,7 +150,7 @@ La **Soglia Critica** è il numero **massimo di ⚫** che puoi estrarre **senza*
 
 ---
 
-## Successo e Fallimento 🎭
+### Successo e Fallimento 🎭
 
 > _I token che hai estratto determinano l’esito. Il Narratore interpreta poi come continua la scena._
 
@@ -235,7 +233,7 @@ Quando hai **SUCCESSO** o **FALLIMENTO**, **devi spendere tutti i ⚫ che hai es
     
 - **Svelare una conseguenza imprevista**: la tua azione ha un effetto collaterale che non avevi previsto (es. il tuo inganno funziona, ma qualcuno ti ha visto).
     
-- **Mettere in pericolo un alleato**: un compagno viene ferito o messo in difficoltà a causa della tua azione.
+- **Mettere in difficoltà un alleato**: un compagno viene ferito o messo in difficoltà a causa della tua azione.
     
 - **Aggiungere una scadenza o una pressione**: il tempo stringe, il nemico si sta riorganizzando, la tua copertura sta per saltare.
     
@@ -288,7 +286,7 @@ Segui i seguenti passaggi:
 
 ---
 
-### Uscire di Scena 🚪
+## Uscire di Scena 🚪
 
 Un’**USCITA DI SCENA** è un momento drammatico in cui il tuo eroe viene temporaneamente messo fuori gioco durante una **PROVA**, perché hai estratto un numero di **⚫ superiore alla Soglia Critica** fissata dal **NARRATORE**. Potresti perdere conoscenza, essere catturato o affrontare un ostacolo insormontabile. Non è una sconfitta definitiva: rientri nella scena successiva, spesso con una **Sventura** o un nuovo spunto narrativo. Collabora con il **NARRATORE** per rendere questo evento un’occasione per arricchire la tua storia, trasformando il rischio in un nuovo inizio.
 
@@ -297,18 +295,15 @@ Il NARRATORE dovrebbe abbassare la Soglia Critica con parsimonia, riservando le 
 
 ---
 
-### Tornare in scena 🔙
-
+## Tornare in scena 🔙
 
 > *Il tuo eroe è fuori gioco, ma la storia continua. Il momento del rientro non è una regola, ma una scelta narrativa. Sta al **NARRATORE** decidere quando e come il personaggio riappare, basandosi sul ritmo della storia e sulla tensione del momento. L'unico principio guida è che **rientrare in scena dovrebbe avere un costo**, per mantenere il peso delle scelte fatte.
-
-Di solito, il rientro richiede una **PROVA** che rappresenti il recupero, la fuga o il risveglio del personaggio. La **Difficoltà** e il **Rischio** dipendono dalla gravità dell'uscita: una caduta richiederà una prova di forza o agilità, uno svenimento una prova di volontà, una cattura una prova di furtività o astuzia. Il costo può essere anche narrativo: il personaggio può subire una **Sventura** legata all'uscita (una ferita, un orgoglio ferito), perdere un oggetto prezioso, o accettare una complicazione che si riverbera sulla scena.
 
 Tornare in scena è un'opportunità drammatica per aggiungere colore alla storia. Il giocatore è invitato a collaborare con il Narratore, proponendo idee su come il suo eroe si rialza e cosa ha imparato dalla sconfitta. Forse si risveglia in una cella e deve scappare, o forse il momento di debolezza lo ha reso più determinato. L'importante è che il rientro sia **significativo, non frustrante**: un'uscita di scena ben gestita può trasformare un momento di debolezza in un momento eroico, e il ritorno è il primo passo di quella trasformazione.
 
 ---
 
-### Modificatori delle Prove - gli Status Tematici ⚗️
+## Modificatori delle Prove - gli Status Tematici ⚗️
 
 > _Per modulare la difficoltà delle prove, e aggiungere un ulteriore livello di personalizzazione e contesto alle prove, il narratore può applicare uno status tematico al personaggio prima che vengano estratti i token._
 
@@ -324,7 +319,7 @@ Il **NARRATORE** si può sbizzarrire con gli status, ma ecco alcuni esempi:
 | **DISTRAZIONE** 👀   | Aggiungi 2⚫ al sacchetto, ma brucia 1⚫ che hai pescato                                                   | _Hai la **testa tra le nuvole**... Alcuni inconvenienti sfuggono al tuo controllo._                           |
 | **FATICA** 😮‍💨     | In questa prova puoi usare al più 2 **TRATTI** .                                                         | _Qualcosa ti sta **provando** fisicamente, rendendo difficile sfruttare tutte le tue capacità._               |
 
-Nota: l'Ottimismo serve ad aggiustare il livello di difficoltà di prove poco rischiose, per esempio quando nel sacchetto hai 1⚫ e 2⚪.
+*Nota: Questa lista non è restrittiva. In quanto Narratore puoi aggiungere alla lista nuovi status tematici.*
 
 ---
 

@@ -52,7 +52,7 @@ Le Complicazioni dovrebbero spingere la storia avanti (es. un nuovo ostacolo), m
 
 Come giocatore puoi proporre qualsiasi tratto, ma sta al narratore bilanciare la campagna. Certi tratti potrebbero risultare troppo genericamente utili, e tutti vorrebbero usarli, risultando in personaggi che si assomigliano, e con un ⚪ in più in ogni prova. Se proprio vuoi un tratto particolare, puoi chiedere al narratore di bilanciarlo con un *tratto negativo extra* ad esso collegato, che ti darà anche un ⚫ in alcune prove.
 
-*Vedi esempi in [[eD2 - Esempi Consigli]]*
+*Vedi esempi in [[eD3 - Consigli per il Narratore]]*
 
 ---
 

@@ -14,13 +14,6 @@ Questo sistema di gioco ricco di narrazione ti permette di dare concretezza al c
 
 ---
 
-## Cosa vuol dire "Campagna Asincrona"?
-
-#todo spiegazione sessioni one-on-one & time-skip
-
-
----
-
 ## Time-skip tra Sessioni 🌅
 
 Una delle meccaniche più influenti di questo volume. Tra una sessione e l’altra, il Narratore può dichiarare un **Time-skip** (da poche settimane a diversi mesi) per permettere ai personaggi di far crescere i propri progetti.
@@ -72,6 +65,16 @@ Hai a disposizione **3 Slot Tempo**. Questi rappresentano le aree principali su 
 - L’appartenenza a un circolo, gilda o comunità
 
 **Importante:** Le attività minori o puramente decorative **non** richiedono uno Slot Tempo. Puoi avere più attività nello stesso ambito, ma solo le più rilevanti occupano uno slot. Se dedichi tempo a troppe cose minori, il Narratore può richiedere di consolidare o scegliere cosa è davvero prioritario.
+
+---
+
+## Cosa vuol dire "Campagna Asincrona"?
+
+#todo spiegazione sessioni one-on-one & time-skip
+
+In questo sistema di gioco è consigliato svolgere sessioni *asincrone*. Invece di avere una sessione con tutti i giocatori assieme, solo i personaggi che si conoscono potranno partecipare a una sessione. 
+
+...
 
 ---
 

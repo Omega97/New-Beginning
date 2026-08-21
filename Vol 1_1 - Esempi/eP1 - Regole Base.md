@@ -69,7 +69,7 @@ _L'informatore Misterioso_ 🎲
     Hai affinato la tua tecnica con la spada fino a renderla un'estensione del tuo braccio, imparando a parare, colpire e sfuggire.
 
 *Persuasivo*
-    Sai parlare con eloquenza, convincere, ingannare o ispirare. Le parole sono il tuo strumento più potente.
+    Sai parlare con eloquenza, convincere, ingannare o ispirare. Le parole sono il tuo strumento più potente, ma occhio! Usare troppo questo tratto potrebbe farti sembrare *Manipolatore*. #todo meccanica prova cruciale?
 
 *Mani Leste*
     Hai dita veloci e precise, perfette per rubare, scassinare serrature o maneggiare oggetti delicati.

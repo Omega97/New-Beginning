@@ -15,6 +15,7 @@
 
 ## 📚 File del Repository
 
+#todo sistemare link
 
 ### Vol 1 - Regole Player Core
 

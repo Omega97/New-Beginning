@@ -311,15 +311,15 @@ Prima di affrontare una **PROVA**, il **NARRATORE** può scegliere di applicare 
 
 Il **NARRATORE** si può sbizzarrire con gli status, ma ecco alcuni esempi:
 
-| Status               | Effetto                                                                                                  | Flavour                                                                                                       |
-| -------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **OTTIMISMO** 😃     | Se scegli di estrarre un solo **TOKEN** e hai estratto un ⚫, rimettilo nel sacchetto ed estrai di nuovo. | *La prova è poco rischiosa, e sei molto **sicuro di te**.*                                                    |
-| **PAURA** 😨         | Non scegli quanti **TOKEN** estrarre. Estrai un **TOKEN** alla volta finchè non peschi un ⚫.             | *Sei **spaventato**! Estrai i token con estrema cautela.*<br>                                                 |
-| **CONFUSIONE** 😵‍💫 | **ESTRAI** tutti i **TOKEN** tranne uno.                                                                 | *Sei **confuso**! Le tue decisioni sono offuscate.* *In un momento concitato, non hai il tempo di pensare...* |
-| **DISTRAZIONE** 👀   | Aggiungi 2⚫ al sacchetto, ma brucia 1⚫ che hai pescato                                                   | _Hai la **testa tra le nuvole**... Alcuni inconvenienti sfuggono al tuo controllo._                           |
-| **FATICA** 😮‍💨     | In questa prova puoi usare al più 2 **TRATTI** .                                                         | _Qualcosa ti sta **provando** fisicamente, rendendo difficile sfruttare tutte le tue capacità._               |
+| Status               | Effetto                                                                                                  | Flavour                                                                                         |
+| -------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **OTTIMISMO** 😃     | Se scegli di estrarre un solo **TOKEN** e hai estratto un ⚫, rimettilo nel sacchetto ed estrai di nuovo. | *La prova è poco rischiosa, e sei molto **sicuro di te**.*                                      |
+| **PAURA** 😨         | Estrai un **TOKEN** alla volta finché non peschi un ⚫ (Non scegli tu quanti **TOKEN** estrarre).         | *Sei **spaventato**! Estrai i token con estrema cautela.*<br>                                   |
+| **CONFUSIONE** 😵‍💫 | **ESTRAI** tutti i **TOKEN** tranne uno.                                                                 | Le tue decisioni sono offuscate.* *In un momento concitato, non hai il tempo di pensare...*     |
+| **DISTRAZIONE** 👀   | Aggiungi 2⚫ al sacchetto, ma brucia 1⚫ che hai pescato                                                   | _Hai la **testa tra le nuvole**... Alcuni inconvenienti sfuggono al tuo controllo._             |
+| **FATICA** 😮‍💨     | In questa prova puoi usare al più 2 **TRATTI** .                                                         | _Qualcosa ti sta **provando** fisicamente, rendendo difficile sfruttare tutte le tue capacità._ |
 
-*Nota: Questa lista non è restrittiva. In quanto Narratore puoi aggiungere alla lista nuovi status tematici.*
+*Nota: Questa lista non è restrittiva. In quanto Narratore, puoi aggiungere nuovi status tematici, se lo ritieni opportuno.*
 
 ---
 

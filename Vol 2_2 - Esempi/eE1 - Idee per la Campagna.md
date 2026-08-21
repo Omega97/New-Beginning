@@ -40,4 +40,44 @@ date: 2026-08-18
 
 ---
 
-#todo altri esempi
+### L'Accademia delle Quattro Stagioni
+- campagna asincrona in un collegio (magico, militare, o di arti liberali)
+- i giocatori sono studenti, docenti o personale; si sa chi è al collegio, non chi è un PC
+- ogni **Time-skip** è un trimestre: lezioni, rivalità, esami come **prove condensate**
+- **Slot Tempo** tipici: studio, un circolo, una relazione; **Slot Asset**: uno strumento, una stanza, un maestro
+- obiettivo del mondo: diplomarsi (o far chiudere l'Accademia); obiettivi personali: cattedra, amore, un segreto rubato
+
+---
+
+### Dopo il Diluvio
+- una città è stata sommersa / bruciata / abbandonata; i PC sono i primi a tornare
+- cooperate per ricostruire quartieri, mercati, un tempio — ma ciascuno ha un **obiettivo personale** nascosto (un debito, una tomba, un colpevole)
+- i time-skip sono stagioni di cantiere: risorse scarse, malattie, saccheggiatori
+- le sessioni di gruppo scattano quando un edificio comune è pronto, o quando arriva un Evento
+- la campagna finisce quando la città è di nuovo abitabile… o quando qualcuno se la prende
+
+---
+
+### Capitani della Flotta Smarrita
+- una flotta mercantile si è dispersa in una tempesta; ogni PC è capitano di una nave
+- sessioni one-on-one in mare o in porti diversi; gli altri PC sono voci, bandiere, voci di porto
+- **Slot Asset**: la nave; **Slot Tempo**: equipaggio, rotta, un affare a terra
+- obiettivo del mondo: ricomporre la flotta (o reclamare il titolo di ammiraglio)
+- sconfiggere i pirati / trovare l'isola del carico perso chiude la campagna
+
+---
+
+### Il Carnevale che non Finisce
+- una città in maschera da tre mesi; nessuno toglie il volto, per decreto o per paura
+- campagna asincrona sociale: duelli di etichetta, favori, furti, amori sotto mentite spoglie
+- il fatto che i PC non si conoscano *è* la premessa, non un trucco del Narratore
+- il Carnevale finisce a una data nota; chi ha più influenza (o chi smaschera il Doge) vince
+- variante 1 v All: il *villain* è chi ha imposto il Carnevale, e gioca mascherato tra gli altri
+
+---
+
+## Delitto sull'Orient Express
+
+#todo ?
+
+---
